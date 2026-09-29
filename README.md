@@ -18,5 +18,6 @@ ejecuta manualmente tras revisar cada cambio.
 El canal INTERNAL queda sin publicar en esta primera fase. Cuando se decida usarlo,
 puede añadirse `public/internal/manifest.json` con su propia clave de confianza.
 
-**Estado:** estructura local pendiente de propietario de GitHub y autorización de
-publicación. No existe remoto ni Pages activo.
+**Estado:** la Release pública `v1.1.0` contiene
+`manga-froggy-1.1.0-code2.apk`; Pages sirve el manifest estable firmado.
+El repositorio se mantiene separado del código principal de Manga Froggy.
