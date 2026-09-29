@@ -1,0 +1,18 @@
+{
+  "payload": {
+    "schemaVersion": 1,
+    "channel": "release",
+    "packageName": "com.mangafroggy.app",
+    "versionName": "1.1.0",
+    "versionCode": 2,
+    "minSupportedVersionCode": 2,
+    "publishedAt": "2026-09-29T18:31:29Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/v1.1.0/manga-froggy-1.1.0-code2.apk",
+    "apkSize": 107531485,
+    "sha256": "7065ed3f89fad8162dcba4fff4a10772c62b0d8877fd2d556a17d35ab02e535d",
+    "releaseNotes": "# Manga Froggy 1.1.0\n\n- Lectura online de capítulos disponibles en español.\n- Biblioteca, historial y progreso de lectura locales.\n- MangaDex y fuentes gestionadas por Source Manager.\n- Definiciones de fuentes actualizables mediante el flujo firmado existente.\n- Comprobación manual de nuevas APK desde Ajustes → Actualizaciones.\n- Exportación e importación local de copias de seguridad.\n\nLa consulta de actualizaciones por Internet se activará al publicar el manifest\nfirmado en GitHub Pages. La primera instalación con la firma RELEASE estable se\nhará una sola vez tras desinstalar la instalación firmada con la clave antigua.\n",
+    "mandatory": false,
+    "signerId": "mf-app-2026"
+  },
+  "signature": "3c523bf27870990dd24b0641cca787d386d81e084c567c319e2f29cb5586e8d44d71d791a731955cc274821fe513f6ccbedb8e91633c249490f825b96071230d"
+}

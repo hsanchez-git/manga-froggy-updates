@@ -1,0 +1,11 @@
+# APK files belong exclusively to GitHub Release assets.
+*.apk
+*.jks
+*.keystore
+*.properties
+*.pem
+*.db
+*.sqlite*
+*backup*.json
+local-signing/
+dist/

@@ -1,0 +1,3 @@
+# Preserve reviewed, signed manifest bytes exactly across Windows checkouts.
+public/stable/manifest.json -text
+public/stable/manifest.sig -text
