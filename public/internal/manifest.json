@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 8,
+    "versionCode": 9,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-03T16:25:22Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code8/manga-froggy-internal-code8.apk",
+    "publishedAt": "2026-10-03T19:57:52Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code9/manga-froggy-internal-code9.apk",
     "apkSize": 47951991,
-    "sha256": "973093fa91c188b97b6cfe4f951f27b6b6a8a7ff16711d3f5b8b3c9fe84c82eb",
-    "releaseNotes": "INTERNAL code8 — OTA physical timing.\n\nMediciones locales de descarga, verificación y preparación. La pantalla de actualizaciones\nmuestra la última medición y una estimación de Android + vuelta a la app tras actualizar.\nSin analytics ni notificaciones. Las validaciones de seguridad permanecen activas.\n",
+    "sha256": "0c3e9c7e238592174428f8d75252476902ca03e9ff0959293f3a6f21a0e8d665",
+    "releaseNotes": "Prueba de medición física OTA code8 → code9. Sin cambios funcionales relevantes.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "87adc2ae7b7bec28f4cd1a02e238a32cf6dcdca330fccb3273964f0b0482aee8f558d79ae7c71fa5ed98a02a857799b3251e746f883b878696b83cecf4085008"
+  "signature": "6c8046c056c033f3055beae603c55340f63a248b652614c9ce7c04d8d26cb71690b343cd73ac5cb8c56287564ff1deaa0bc3cd2c8d7cd9de47d97bbfd0d5900b"
 }
