@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 7,
+    "versionCode": 8,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-03T14:23:59Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code7/manga-froggy-internal-code7.apk",
-    "apkSize": 47919951,
-    "sha256": "62c07d4c3065468e57e39b66724947668d9a0508ecb599e705de216a293ee59f",
-    "releaseNotes": "V4.1.9.11.2 — Search, entrada al Reader y OTA INTERNAL\n\n- Cambio y borrado de búsqueda inmediatos; resultados de consultas anteriores descartados.\n- Reader reutiliza el plan de Work y prioriza la página actual antes del trabajo de fondo.\n- INTERNAL ARM64: APK reducida conservando package, certificado, Hermes e icono oficial.\n- Descarga INTERNAL nativa por streaming con SHA-256, reanudación segura y progreso en la app.\n- Firma de manifest, identidad de APK y confirmación del instalador Android conservadas.\n\nPreparación local de code7 autorizada, conservando el borrador code6 firmado.\nIncluye la prioridad de reconciliación Work y la preparación del capítulo enfocado.\nSin publicación ni instalación. El nuevo downloader se utilizará tras instalar code7\npara futuras actualizaciones; code5 descarga code7 mediante su updater actual y se\nbeneficia del menor tamaño.\n",
+    "publishedAt": "2026-10-03T16:25:22Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code8/manga-froggy-internal-code8.apk",
+    "apkSize": 47951991,
+    "sha256": "973093fa91c188b97b6cfe4f951f27b6b6a8a7ff16711d3f5b8b3c9fe84c82eb",
+    "releaseNotes": "INTERNAL code8 — OTA physical timing.\n\nMediciones locales de descarga, verificación y preparación. La pantalla de actualizaciones\nmuestra la última medición y una estimación de Android + vuelta a la app tras actualizar.\nSin analytics ni notificaciones. Las validaciones de seguridad permanecen activas.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "398dfc7af6616926b210c4918b30be716e3b39bc713cdf309f415359fa7d8df0a0d4221d5c1aaeb9433b9c0ca2e26770fc21b59ef4e61b9dd4620dd156ddfb0a"
+  "signature": "87adc2ae7b7bec28f4cd1a02e238a32cf6dcdca330fccb3273964f0b0482aee8f558d79ae7c71fa5ed98a02a857799b3251e746f883b878696b83cecf4085008"
 }
