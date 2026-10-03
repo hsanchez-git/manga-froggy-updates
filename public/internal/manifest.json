@@ -1,0 +1,18 @@
+{
+  "payload": {
+    "schemaVersion": 1,
+    "channel": "internal",
+    "packageName": "com.mangafroggy.app.internal",
+    "versionName": "1.1.1",
+    "versionCode": 5,
+    "minSupportedVersionCode": 4,
+    "publishedAt": "2026-10-03T09:14:25Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code5/manga-froggy-internal-code5.apk",
+    "apkSize": 115544596,
+    "sha256": "f771c3bc2295fcc84fb2f8cbbfc2aa4557dae6544b30ac9578c77b06c45ebfa9",
+    "releaseNotes": "Canal de actualizaciones INTERNAL por Internet. Prueba OTA de código 4 a 5. Conserva Instant Search, Instant Work, Reader continuo y branding oficial.\n",
+    "mandatory": false,
+    "signerId": "mf-app-2026"
+  },
+  "signature": "84b34f60393cf492ba0878e2d81f6e472d11544fd32e7979d34c1a5908fcad63023d0c02ef6efa46db2808cf15b4240614cb071e095a05d6a4ca70c26e474408"
+}
