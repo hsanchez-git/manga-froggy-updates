@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 5,
+    "versionCode": 7,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-03T09:14:25Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code5/manga-froggy-internal-code5.apk",
-    "apkSize": 115544596,
-    "sha256": "f771c3bc2295fcc84fb2f8cbbfc2aa4557dae6544b30ac9578c77b06c45ebfa9",
-    "releaseNotes": "Canal de actualizaciones INTERNAL por Internet. Prueba OTA de código 4 a 5. Conserva Instant Search, Instant Work, Reader continuo y branding oficial.\n",
+    "publishedAt": "2026-10-03T14:23:59Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code7/manga-froggy-internal-code7.apk",
+    "apkSize": 47919951,
+    "sha256": "62c07d4c3065468e57e39b66724947668d9a0508ecb599e705de216a293ee59f",
+    "releaseNotes": "V4.1.9.11.2 — Search, entrada al Reader y OTA INTERNAL\n\n- Cambio y borrado de búsqueda inmediatos; resultados de consultas anteriores descartados.\n- Reader reutiliza el plan de Work y prioriza la página actual antes del trabajo de fondo.\n- INTERNAL ARM64: APK reducida conservando package, certificado, Hermes e icono oficial.\n- Descarga INTERNAL nativa por streaming con SHA-256, reanudación segura y progreso en la app.\n- Firma de manifest, identidad de APK y confirmación del instalador Android conservadas.\n\nPreparación local de code7 autorizada, conservando el borrador code6 firmado.\nIncluye la prioridad de reconciliación Work y la preparación del capítulo enfocado.\nSin publicación ni instalación. El nuevo downloader se utilizará tras instalar code7\npara futuras actualizaciones; code5 descarga code7 mediante su updater actual y se\nbeneficia del menor tamaño.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "84b34f60393cf492ba0878e2d81f6e472d11544fd32e7979d34c1a5908fcad63023d0c02ef6efa46db2808cf15b4240614cb071e095a05d6a4ca70c26e474408"
+  "signature": "398dfc7af6616926b210c4918b30be716e3b39bc713cdf309f415359fa7d8df0a0d4221d5c1aaeb9433b9c0ca2e26770fc21b59ef4e61b9dd4620dd156ddfb0a"
 }
