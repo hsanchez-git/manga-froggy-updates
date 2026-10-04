@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 13,
+    "versionCode": 14,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-04T09:42:13Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code13/manga-froggy-internal-code13.apk",
-    "apkSize": 48033239,
-    "sha256": "37667175533f55155139d981150f46cc4b7ef836aab09d06eb94e98305847e54",
-    "releaseNotes": "V4.1.9.12.1 — Precarga fluida con datos móviles y ahorro desactivado: tres páginas siguientes, prioridad de la visible y reutilización al cruzar capítulo. Sin descargas permanentes.",
+    "publishedAt": "2026-10-04T12:10:46Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code14/manga-froggy-internal-code14.apk",
+    "apkSize": 48047351,
+    "sha256": "91b6410a3c8b826a6adffe60249657856eac2e322eb47703ef60b477ba9d4369",
+    "releaseNotes": "V4.1.9.12.2 — Reader Motion Polish.\n\nEl lector paginado conserva la página actual hasta que la siguiente imagen termine de cargar y decodificar. El desplazamiento con zoom añade inercia, resistencia y retorno suave a los límites. Se mantienen la caché temporal y el prefetch celular de code13.\n\nBuild INTERNAL code14 para validación física mediante OTA code13 → code14. Sin cambios en RELEASE/STABLE.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "d05e9069a7585b4dfa0990574b24fc2bdfb7f0ba49576c1c2c6c2c7b36cc0547db0b344f598c7429aa0f2b88aea7e404c0d7599bd1897f9284432d5207ea520e"
+  "signature": "f83a93d3beeb2d0d4f3bf2bbd78875e240bbb019b6effa2df62be28faf322f60f102337be60555bdde8b9c70f683b05d5fddae7badd6abbb9691fb72df312109"
 }
