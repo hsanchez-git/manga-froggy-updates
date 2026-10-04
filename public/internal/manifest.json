@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 15,
+    "versionCode": 17,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-04T14:20:54Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code15/manga-froggy-internal-code15.apk",
-    "apkSize": 48226515,
-    "sha256": "2a10e04e6fe6f84390634c735e7be807cf87cc79ac4eea6d78fc24ac0ec6ceb4",
-    "releaseNotes": "V4.1.9.12.3 — Interactive Page Turn\n\nLas páginas paginadas siguen el dedo y revelan la página adyacente ya decodificada. La transición completa o vuelve desde la posición alcanzada según distancia y velocidad. Conserva zoom, lectura continua, spreads, identidad canónica y Data Saver. Prueba física pendiente; entrega local sin publicación.\n",
+    "publishedAt": "2026-10-04T18:02:20Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code17/manga-froggy-internal-code17.apk",
+    "apkSize": 48413779,
+    "sha256": "d5996b6cc2be4fccfe0518fc2c2994fe74ebe24b024aadcde5b76575059e5949",
+    "releaseNotes": "V4.1.9.12.4 — Natural Zoom Pan + Deliberate Edge Page Turn. Pan y zoom nativos; inercia diagonal, rubber-band y cambio de página ampliada solo mediante un nuevo gesto deliberado desde el borde estable. Mantiene el pager normal aceptado de code15. Code16 retirado sin publicar; migración Mihon pendiente de code18 después de aceptación física.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "9db6f920057ebd259652e314ad63f46928a8e91104fbd5d82fe2b4e27974b2c1a63725f7d3d693e12ce0e512f04c94c44d8f3dec2f960b19d238db23cfe31b0e"
+  "signature": "cc75a52cd49ecf1346b7d40570455a7a5e39f6a8b686e8018b50da17c2de106e756515ef96f93aff3ec5f7a8828cf70267ec6e2798ea42675610adf85bb5e90a"
 }
