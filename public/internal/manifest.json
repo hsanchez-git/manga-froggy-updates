@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 9,
+    "versionCode": 11,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-03T19:57:52Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code9/manga-froggy-internal-code9.apk",
-    "apkSize": 47951991,
-    "sha256": "0c3e9c7e238592174428f8d75252476902ca03e9ff0959293f3a6f21a0e8d665",
-    "releaseNotes": "Prueba de medición física OTA code8 → code9. Sin cambios funcionales relevantes.\r\n",
+    "publishedAt": "2026-10-04T07:15:40Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code11/manga-froggy-internal-code11.apk",
+    "apkSize": 47960287,
+    "sha256": "489a3b8d2c83faafda9d5233945340d20ee00d6f2d7797ab3e217a101e381706",
+    "releaseNotes": "Prueba física OTA code10 → code11. Mismo código funcional que code10; solo metadata de versión para medir descarga, verificaciones y vuelta desde el instalador Android.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "6c8046c056c033f3055beae603c55340f63a248b652614c9ce7c04d8d26cb71690b343cd73ac5cb8c56287564ff1deaa0bc3cd2c8d7cd9de47d97bbfd0d5900b"
+  "signature": "38d78007cd6ef1808526b9c0f6c86b8605bfa63a44b850533387183e3a3a5412da939b52a2df9c29e1df5db364677b7faba3d9ea3118a4013a381e8902446102"
 }
