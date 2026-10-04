@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 17,
+    "versionCode": 18,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-04T18:02:20Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code17/manga-froggy-internal-code17.apk",
-    "apkSize": 48413779,
-    "sha256": "d5996b6cc2be4fccfe0518fc2c2994fe74ebe24b024aadcde5b76575059e5949",
-    "releaseNotes": "V4.1.9.12.4 — Natural Zoom Pan + Deliberate Edge Page Turn. Pan y zoom nativos; inercia diagonal, rubber-band y cambio de página ampliada solo mediante un nuevo gesto deliberado desde el borde estable. Mantiene el pager normal aceptado de code15. Code16 retirado sin publicar; migración Mihon pendiente de code18 después de aceptación física.\r\n",
+    "publishedAt": "2026-10-04T18:58:00Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code18/manga-froggy-internal-code18.apk",
+    "apkSize": 48413639,
+    "sha256": "4d6975aeb62bc9d682fb107337e593ff97dafeb0234723e5f6b77e9cecb2d7fc",
+    "releaseNotes": "V4.1.9.12.4.1 — Natural Zoom Pan Physical Crash Fix. Corrige la resolución de ZOOM_RUBBER_LIMIT al ejecutar helpers serializados en el runtime UI. Conserva pan, zoom focal, inercia, goma y edge turn deliberado. Code17 físicamente fallido, no reutilizado; migración Mihon aplazada a code19 tras PASS físico de code18.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "cc75a52cd49ecf1346b7d40570455a7a5e39f6a8b686e8018b50da17c2de106e756515ef96f93aff3ec5f7a8828cf70267ec6e2798ea42675610adf85bb5e90a"
+  "signature": "53903681b3f41db36a38c604536e0bc14db6d0bcbaa26793748d62d68ae5d55e031a5f38c4f1385a4a9c631035672f15e919eabf933831ef46f790df56c7b501"
 }
