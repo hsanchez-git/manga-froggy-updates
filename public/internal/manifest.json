@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 11,
+    "versionCode": 12,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-04T07:15:40Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code11/manga-froggy-internal-code11.apk",
-    "apkSize": 47960287,
-    "sha256": "489a3b8d2c83faafda9d5233945340d20ee00d6f2d7797ab3e217a101e381706",
-    "releaseNotes": "Prueba física OTA code10 → code11. Mismo código funcional que code10; solo metadata de versión para medir descarga, verificaciones y vuelta desde el instalador Android.\n",
+    "publishedAt": "2026-10-04T08:22:35Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code12/manga-froggy-internal-code12.apk",
+    "apkSize": 48029811,
+    "sha256": "296db58a729eebeb3712087d4ddbdafb89f53338d722903f057c1fd462c1d13f",
+    "releaseNotes": "V4.1.9.12 — Caché temporal de páginas y ahorro de datos. Reutiliza páginas recientes con límites automáticos; ahorro de datos desactivado por defecto. Sin descargas permanentes.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "38d78007cd6ef1808526b9c0f6c86b8605bfa63a44b850533387183e3a3a5412da939b52a2df9c29e1df5db364677b7faba3d9ea3118a4013a381e8902446102"
+  "signature": "4fc557fe6eabdb1f41f22a6095d90c18b09ca517f57dd01c3cd91e8f107f2125282743156c83df6e7b0e788a2f11bb10a965f3cb290dcd711c860055e6a83d09"
 }
