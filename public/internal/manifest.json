@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 14,
+    "versionCode": 15,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-04T12:10:46Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code14/manga-froggy-internal-code14.apk",
-    "apkSize": 48047351,
-    "sha256": "91b6410a3c8b826a6adffe60249657856eac2e322eb47703ef60b477ba9d4369",
-    "releaseNotes": "V4.1.9.12.2 — Reader Motion Polish.\n\nEl lector paginado conserva la página actual hasta que la siguiente imagen termine de cargar y decodificar. El desplazamiento con zoom añade inercia, resistencia y retorno suave a los límites. Se mantienen la caché temporal y el prefetch celular de code13.\n\nBuild INTERNAL code14 para validación física mediante OTA code13 → code14. Sin cambios en RELEASE/STABLE.\n",
+    "publishedAt": "2026-10-04T14:20:54Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code15/manga-froggy-internal-code15.apk",
+    "apkSize": 48226515,
+    "sha256": "2a10e04e6fe6f84390634c735e7be807cf87cc79ac4eea6d78fc24ac0ec6ceb4",
+    "releaseNotes": "V4.1.9.12.3 — Interactive Page Turn\n\nLas páginas paginadas siguen el dedo y revelan la página adyacente ya decodificada. La transición completa o vuelve desde la posición alcanzada según distancia y velocidad. Conserva zoom, lectura continua, spreads, identidad canónica y Data Saver. Prueba física pendiente; entrega local sin publicación.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "f83a93d3beeb2d0d4f3bf2bbd78875e240bbb019b6effa2df62be28faf322f60f102337be60555bdde8b9c70f683b05d5fddae7badd6abbb9691fb72df312109"
+  "signature": "9db6f920057ebd259652e314ad63f46928a8e91104fbd5d82fe2b4e27974b2c1a63725f7d3d693e12ce0e512f04c94c44d8f3dec2f960b19d238db23cfe31b0e"
 }
