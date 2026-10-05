@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 18,
+    "versionCode": 19,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-04T18:58:00Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code18/manga-froggy-internal-code18.apk",
-    "apkSize": 48413639,
-    "sha256": "4d6975aeb62bc9d682fb107337e593ff97dafeb0234723e5f6b77e9cecb2d7fc",
-    "releaseNotes": "V4.1.9.12.4.1 — Natural Zoom Pan Physical Crash Fix. Corrige la resolución de ZOOM_RUBBER_LIMIT al ejecutar helpers serializados en el runtime UI. Conserva pan, zoom focal, inercia, goma y edge turn deliberado. Code17 físicamente fallido, no reutilizado; migración Mihon aplazada a code19 tras PASS físico de code18.\r\n",
+    "publishedAt": "2026-10-04T19:50:35Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code19/manga-froggy-internal-code19.apk",
+    "apkSize": 48415551,
+    "sha256": "e6efb4124a7d6f9577e54dff3207c1465edd9d4fb36736f26317b5600fd357b6",
+    "releaseNotes": "V4.1.9.12.5 — borde de zoom: decisión tras activación del nuevo gesto; autoridad compartida de dirección y diagnóstico RTL. Sin cambios en la física de zoom. Validación física RTL pendiente. Mihon aplazado a code20.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "53903681b3f41db36a38c604536e0bc14db6d0bcbaa26793748d62d68ae5d55e031a5f38c4f1385a4a9c631035672f15e919eabf933831ef46f790df56c7b501"
+  "signature": "8e58ba41dce08e9603716085c24017e3a12561d64c3c308f027fc8ffec3e6bba094e4a3d491516a39c4e9e8473b373a0c778ebe47a7e782041281b9c45548005"
 }
