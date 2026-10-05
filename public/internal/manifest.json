@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 21,
+    "versionCode": 22,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-05T09:25:21Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code21/manga-froggy-internal-code21.apk",
-    "apkSize": 48448451,
-    "sha256": "6f0dd5153037a27c77f268fa9216efc16f8ca1681154893647c038ebc3b35741",
-    "releaseNotes": "V4.1.9.12.7 — Physical Pager Release Diagnostics.\n\nBuild INTERNAL de diagnóstico: captura local acotada de gestos del Reader y acciones para copiar el último gesto, los últimos cinco y limpiar la sesión.\n\nEl comportamiento del pager se conserva respecto a code20. No es una corrección del swipe rápido. Sin Mihon Migration. Prueba física posterior: code20 → code21, comparar gesto RTL largo correcto y gesto rápido que vuelve a CURRENT.\n",
+    "publishedAt": "2026-10-05T11:53:13Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code22/manga-froggy-internal-code22.apk",
+    "apkSize": 48461119,
+    "sha256": "87ea70cabd825b85c6a522da4243c397402deb59108baecab4526fd4ceaa7eec",
+    "releaseNotes": "V4.1.9.12.6 � Pager Terminal Lifecycle + Stale Reanchor Fix. Una terminaci�n por gesto y autoridad de p�gina tras commit. Prueba f�sica pendiente; RTL y zoom conservados. Mihon no incluido.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "5182f934dc30ea3f6fd33ebc246cb69323637e702e2c04bbad8f5201176f770ae1faca49fed5c853e3f8e1db41c64ef34db37a48f64c6905d8775c381489ce0f"
+  "signature": "de6ac32e68a35bdf6cc093bb232b89acf35bf1c7c31c86083fe4b3810b9e62a971be4696ee01559bb5d05f17e361271d833310b6086e240f634fa1c4dd0f050d"
 }
