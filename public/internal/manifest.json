@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 22,
+    "versionCode": 23,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-05T11:53:13Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code22/manga-froggy-internal-code22.apk",
-    "apkSize": 48461119,
-    "sha256": "87ea70cabd825b85c6a522da4243c397402deb59108baecab4526fd4ceaa7eec",
-    "releaseNotes": "V4.1.9.12.6 � Pager Terminal Lifecycle + Stale Reanchor Fix. Una terminaci�n por gesto y autoridad de p�gina tras commit. Prueba f�sica pendiente; RTL y zoom conservados. Mihon no incluido.\r\n",
+    "publishedAt": "2026-10-05T13:23:38Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code23/manga-froggy-internal-code23.apk",
+    "apkSize": 48472911,
+    "sha256": "3d8844cc4d2b15dece7dba56a175013e11f0e22d02de0fe09d844c6725026dfd",
+    "releaseNotes": "# Manga Froggy INTERNAL 1.1.1 (code23)\n\nCorrección de swipes rápidos: conserva el destino del gesto, difiere los reanchors de mantenimiento y confirma página y capítulo de forma coherente. Preserva dirección RTL/LTR, zoom, caché y protecciones de code22. Mihon continúa aplazado a code24 o superior.\n\nPreparado para prueba física; no publicado.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "de6ac32e68a35bdf6cc093bb232b89acf35bf1c7c31c86083fe4b3810b9e62a971be4696ee01559bb5d05f17e361271d833310b6086e240f634fa1c4dd0f050d"
+  "signature": "297b87d60d0a4899afd6ae0d7851ede32e1d35f54664c46361a9a6e5f252813c98e2af9d45518ec476435b07a38eeb57bc287774a5418cb75e431fb0cce5530d"
 }
