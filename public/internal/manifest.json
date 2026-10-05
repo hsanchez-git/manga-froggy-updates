@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 23,
+    "versionCode": 24,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-05T13:23:38Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code23/manga-froggy-internal-code23.apk",
-    "apkSize": 48472911,
-    "sha256": "3d8844cc4d2b15dece7dba56a175013e11f0e22d02de0fe09d844c6725026dfd",
-    "releaseNotes": "# Manga Froggy INTERNAL 1.1.1 (code23)\n\nCorrección de swipes rápidos: conserva el destino del gesto, difiere los reanchors de mantenimiento y confirma página y capítulo de forma coherente. Preserva dirección RTL/LTR, zoom, caché y protecciones de code22. Mihon continúa aplazado a code24 o superior.\n\nPreparado para prueba física; no publicado.\n",
+    "publishedAt": "2026-10-05T16:10:17Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code24/manga-froggy-internal-code24.apk",
+    "apkSize": 48485247,
+    "sha256": "35b7c1f4fcc4c297915c7cbb87c654c59d3ab71cf949c8a764c1bf6d7201346f",
+    "releaseNotes": "Hotfix V4.1.9.12.8: autoridad única de página semántica y bloqueo de escrituras tardías de mantenimiento tras commit. Validación técnica completada; aceptación física pendiente. Zoom sin cambios; edge-turn con zoom no verificado.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "297b87d60d0a4899afd6ae0d7851ede32e1d35f54664c46361a9a6e5f252813c98e2af9d45518ec476435b07a38eeb57bc287774a5418cb75e431fb0cce5530d"
+  "signature": "3887bb684c415bdce16fdcdd957bddd7a11879a0a4274806d8c12f59bd5eb3646e615f0afd886f39aa2c940e41b13f8e24af75bf03c6909e839883af5b800105"
 }
