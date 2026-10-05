@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 20,
+    "versionCode": 21,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-05T07:35:42Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code20/manga-froggy-internal-code20.apk",
-    "apkSize": 48418679,
-    "sha256": "a475451bec76d81087a5db8e4624e39174825d2a9a995c239c0dfbd82c6b55ca",
-    "releaseNotes": "V4.1.9.12.6 — swipe rápido: commit por distancia o velocidad coherente. Dirección RTL/LTR, zoom y edge-turn preservados. Mihon aplazado a code21. Preparación INTERNAL code20; aceptación física pendiente.\r\n",
+    "publishedAt": "2026-10-05T09:25:21Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code21/manga-froggy-internal-code21.apk",
+    "apkSize": 48448451,
+    "sha256": "6f0dd5153037a27c77f268fa9216efc16f8ca1681154893647c038ebc3b35741",
+    "releaseNotes": "V4.1.9.12.7 — Physical Pager Release Diagnostics.\n\nBuild INTERNAL de diagnóstico: captura local acotada de gestos del Reader y acciones para copiar el último gesto, los últimos cinco y limpiar la sesión.\n\nEl comportamiento del pager se conserva respecto a code20. No es una corrección del swipe rápido. Sin Mihon Migration. Prueba física posterior: code20 → code21, comparar gesto RTL largo correcto y gesto rápido que vuelve a CURRENT.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "8152546a131ef8038f559a90cc4b0b37aee17f51d5a9043e5cd24380c0315645ab546b3bdc1722db5c2157209f87a8bffd23da6dbdb2b71611d3b8e7e9e79c0c"
+  "signature": "5182f934dc30ea3f6fd33ebc246cb69323637e702e2c04bbad8f5201176f770ae1faca49fed5c853e3f8e1db41c64ef34db37a48f64c6905d8775c381489ce0f"
 }
