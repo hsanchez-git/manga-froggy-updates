@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 24,
+    "versionCode": 25,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-05T16:10:17Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code24/manga-froggy-internal-code24.apk",
-    "apkSize": 48485247,
-    "sha256": "35b7c1f4fcc4c297915c7cbb87c654c59d3ab71cf949c8a764c1bf6d7201346f",
-    "releaseNotes": "Hotfix V4.1.9.12.8: autoridad única de página semántica y bloqueo de escrituras tardías de mantenimiento tras commit. Validación técnica completada; aceptación física pendiente. Zoom sin cambios; edge-turn con zoom no verificado.\r\n",
+    "publishedAt": "2026-10-05T19:14:07Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code25/manga-froggy-internal-code25.apk",
+    "apkSize": 48491787,
+    "sha256": "346d98f964568dbeec8c685081e005d145e4b0113e2606a521d4499d64ddcfa2",
+    "releaseNotes": "V4.1.9.12.9: autoridad semántica única, CANCEL conserva CURRENT y mantenimiento sin navegación. Diagnóstico de interrupciones. Aceptación física pendiente; edge-turn sin verificar. Mihon diferido.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "3887bb684c415bdce16fdcdd957bddd7a11879a0a4274806d8c12f59bd5eb3646e615f0afd886f39aa2c940e41b13f8e24af75bf03c6909e839883af5b800105"
+  "signature": "3b0d4d7db76a11304a735c06a6afd72086613b6ceee4d76980ed27eb31e654ac0f69101b83a9ce96132a94b8ef3347090e4bf6e2bceb37655967aaa052be6d0b"
 }
