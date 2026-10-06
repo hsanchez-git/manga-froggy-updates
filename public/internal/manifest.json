@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 25,
+    "versionCode": 26,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-05T19:14:07Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code25/manga-froggy-internal-code25.apk",
-    "apkSize": 48491787,
-    "sha256": "346d98f964568dbeec8c685081e005d145e4b0113e2606a521d4499d64ddcfa2",
-    "releaseNotes": "V4.1.9.12.9: autoridad semántica única, CANCEL conserva CURRENT y mantenimiento sin navegación. Diagnóstico de interrupciones. Aceptación física pendiente; edge-turn sin verificar. Mihon diferido.\r\n",
+    "publishedAt": "2026-10-06T06:40:18Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code26/manga-froggy-internal-code26.apk",
+    "apkSize": 48498819,
+    "sha256": "4a93cce1bd1b210147101caa634242c7414acb8c2883a5d67cd370b5d3bfedb2",
+    "releaseNotes": "V4.1.9.13.0: intenciones UI explícitas de un solo uso, vinculadas a origen/destino/epoch; rechazo de callbacks stale tras pager commit. Captura de procedencia al inicio del tap y replay buffered. Validación física pendiente; edge-turn sin verificar. Mihon diferido a code27+.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "3b0d4d7db76a11304a735c06a6afd72086613b6ceee4d76980ed27eb31e654ac0f69101b83a9ce96132a94b8ef3347090e4bf6e2bceb37655967aaa052be6d0b"
+  "signature": "3b5f43b53234167d287f39d3e60c50a426d0600e399032595071d6b3bd4235ee53c72e17c3a8bfffa1baf6ae3662bbc8872434f272a6b99cd078932952d78a0f"
 }
