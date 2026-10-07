@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 28,
+    "versionCode": 29,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-07T11:07:49Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code28/manga-froggy-internal-code28.apk",
-    "apkSize": 48509031,
-    "sha256": "0f9ddaf34078d1f6c775af70fd54a067f558de3949554a41795d61ef4c7422cd",
-    "releaseNotes": "Code28: contrato padre/pager con comandos explícitos monotónicos de consumo único; ACK no navega ni interrumpe. Causa code27 reproducida y corregida. Patches compatibles del SDK57 actualizados; Mihon aplazado a29+. Aceptación física pendiente.\r\n",
+    "publishedAt": "2026-10-07T14:53:06Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code29/manga-froggy-internal-code29.apk",
+    "apkSize": 48521547,
+    "sha256": "aa7d61a039095a42df1cc95fb1afd1ba10a3ddac3a9919a48cf949009b40f405",
+    "releaseNotes": "Code29: zoom/pan y edge-turn desde un nuevo gesto sobre borde estabilizado. CANCEL restaura el transform exacto; COMMIT entra en scale1. Pager normal y contrato code28 preservados. Mihon aplazado a code30+. Validación técnica PASS; aceptación física pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "a7f51f7310125d061a5e675ed3bb596e19600bc872bf9eb46de93cb2d5ad86c762e49413b950122d64529145c1bc6e07583843b05d78ebd26091b4ba0faade0b"
+  "signature": "c064de5a3348b6d04e1aa84346c5dcf73542b7c306dc50a18d3060332042322deabb06f774c13f942740ad427ec9325afc8ed58ad3928e2781e698c0e3bb820f"
 }
