@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 26,
+    "versionCode": 27,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-06T06:40:18Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code26/manga-froggy-internal-code26.apk",
-    "apkSize": 48498819,
-    "sha256": "4a93cce1bd1b210147101caa634242c7414acb8c2883a5d67cd370b5d3bfedb2",
-    "releaseNotes": "V4.1.9.13.0: intenciones UI explícitas de un solo uso, vinculadas a origen/destino/epoch; rechazo de callbacks stale tras pager commit. Captura de procedencia al inicio del tap y replay buffered. Validación física pendiente; edge-turn sin verificar. Mihon diferido a code27+.\r\n",
+    "publishedAt": "2026-10-06T17:38:11Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code27/manga-froggy-internal-code27.apk",
+    "apkSize": 48502363,
+    "sha256": "00692a40fc5dcf8591e4bdecf39cae29e6ac078735be6ca32a99035611071d39",
+    "releaseNotes": "Single Semantic Authorization: una intención, una autorización semántica y proyecciones sin navegación implícita. Epoch original, CANCEL terminal y rechazo de callbacks stale. Entrega exclusivamente para aceptación física OTA code26 → code27.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "3b5f43b53234167d287f39d3e60c50a426d0600e399032595071d6b3bd4235ee53c72e17c3a8bfffa1baf6ae3662bbc8872434f272a6b99cd078932952d78a0f"
+  "signature": "4df5f58f8714fa3296a9b0f870c78616a0d66ee031e441489c37cd8dfe4e9311b87f03e48c64462247d1402e6a742f5a847fa566dd304c58996c04dbf7597001"
 }
