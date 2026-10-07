@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 29,
+    "versionCode": 30,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-07T14:53:06Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code29/manga-froggy-internal-code29.apk",
-    "apkSize": 48521547,
-    "sha256": "aa7d61a039095a42df1cc95fb1afd1ba10a3ddac3a9919a48cf949009b40f405",
-    "releaseNotes": "Code29: zoom/pan y edge-turn desde un nuevo gesto sobre borde estabilizado. CANCEL restaura el transform exacto; COMMIT entra en scale1. Pager normal y contrato code28 preservados. Mihon aplazado a code30+. Validación técnica PASS; aceptación física pendiente.\r\n",
+    "publishedAt": "2026-10-07T16:20:48Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code30/manga-froggy-internal-code30.apk",
+    "apkSize": 48529747,
+    "sha256": "dc683f690e609201dcc0eed0384918d51840a3926cde6e87b2414c83a253cec6",
+    "releaseNotes": "Code30: fix aislado del pinch focal. Anchor capturado desde UPDATE activo válido, snapshot visual inmutable y takeover sin animación ancestral. Pager y edge-turn code29 preservados. Mihon aplazado a code31+. Validación técnica PASS; aceptación física pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "c064de5a3348b6d04e1aa84346c5dcf73542b7c306dc50a18d3060332042322deabb06f774c13f942740ad427ec9325afc8ed58ad3928e2781e698c0e3bb820f"
+  "signature": "d13ea4a9ce4929924e0b9ff3d2a130cbd6075cc6674273fa8c2166a1e59d5defb584d30b214837c84e0101c5d9239adfe94286f2ce89f8a8e317e2f1dcc85c06"
 }
