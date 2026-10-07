@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 27,
+    "versionCode": 28,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-06T17:38:11Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code27/manga-froggy-internal-code27.apk",
-    "apkSize": 48502363,
-    "sha256": "00692a40fc5dcf8591e4bdecf39cae29e6ac078735be6ca32a99035611071d39",
-    "releaseNotes": "Single Semantic Authorization: una intención, una autorización semántica y proyecciones sin navegación implícita. Epoch original, CANCEL terminal y rechazo de callbacks stale. Entrega exclusivamente para aceptación física OTA code26 → code27.\r\n",
+    "publishedAt": "2026-10-07T11:07:49Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code28/manga-froggy-internal-code28.apk",
+    "apkSize": 48509031,
+    "sha256": "0f9ddaf34078d1f6c775af70fd54a067f558de3949554a41795d61ef4c7422cd",
+    "releaseNotes": "Code28: contrato padre/pager con comandos explícitos monotónicos de consumo único; ACK no navega ni interrumpe. Causa code27 reproducida y corregida. Patches compatibles del SDK57 actualizados; Mihon aplazado a29+. Aceptación física pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "4df5f58f8714fa3296a9b0f870c78616a0d66ee031e441489c37cd8dfe4e9311b87f03e48c64462247d1402e6a742f5a847fa566dd304c58996c04dbf7597001"
+  "signature": "a7f51f7310125d061a5e675ed3bb596e19600bc872bf9eb46de93cb2d5ad86c762e49413b950122d64529145c1bc6e07583843b05d78ebd26091b4ba0faade0b"
 }
