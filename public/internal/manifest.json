@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 34,
+    "versionCode": 35,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-08T14:23:01Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code34/manga-froggy-internal-code34.apk",
-    "apkSize": 48650211,
-    "sha256": "ab1914a3b369ef6f20a5647587a6ae4d4826aaa2b49e8a8d98c584374f76faa9",
-    "releaseNotes": "INTERNAL code34: correcciones de fichas Mihon. Título canónico sin fuente, pertenencia por canonicalId, placeholder tras fallo real de portada, Otro tipo, status2 completado sin sobrescribir estados confirmados, fuente pendiente de resolución y consulta técnica de solo lectura. Reader y trabajo Mihon31–33 intactos. Aceptación física pendiente.\r\n",
+    "publishedAt": "2026-10-08T16:15:18Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code35/manga-froggy-internal-code35.apk",
+    "apkSize": 48671267,
+    "sha256": "97a20dd21df9ba8a80e598d61474f38c66f48b48667b609d01d88f50caf1d17c",
+    "releaseNotes": "Vinculación manual segura de 20 Seiki Shounen con MangaOni. Revisión de identidad independiente, confirmación explícita e índice atómico. Los registros Mihon permanecen pendientes; no se reconcilia progreso. Lectura de muestras verificada, sin garantía sobre todos los capítulos. Sin cambios en Reader ni updater.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "6b1b0cec03050dc5920cee7b65376eec42a5af1d587fb20c4033117ad64bd14b68473d2cf7ca74cc429b3a90592668d24d89628001df51195b0d18506399860b"
+  "signature": "417fd86bdc2eeca8b33519798c8ebaa590da363731f68135bcbc761077d0dfdf520b44d8fd72131ac77c4aa178dc73c520c7a7999334de809231d4cf4851310c"
 }
