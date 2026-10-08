@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 30,
+    "versionCode": 32,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-07T16:20:48Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code30/manga-froggy-internal-code30.apk",
-    "apkSize": 48529747,
-    "sha256": "dc683f690e609201dcc0eed0384918d51840a3926cde6e87b2414c83a253cec6",
-    "releaseNotes": "Code30: fix aislado del pinch focal. Anchor capturado desde UPDATE activo válido, snapshot visual inmutable y takeover sin animación ancestral. Pager y edge-turn code29 preservados. Mihon aplazado a code31+. Validación técnica PASS; aceptación física pendiente.\r\n",
+    "publishedAt": "2026-10-08T07:31:48Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code32/manga-froggy-internal-code32.apk",
+    "apkSize": 48615215,
+    "sha256": "97e392314018780f3c5f90d486ae789776bd46879143a633b12c8ae8cc8cd6a2",
+    "releaseNotes": "INTERNAL code32: migración Mihon validada, con propuesta automática de Biblioteca desde20 capítulos leídos distintos, selección manual e historial/progreso independientes. Sin cambios funcionales respecto a la APK31 revisada. Code31 queda firmado, reservado y NO PUBLICADO. Aceptación física pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "d13ea4a9ce4929924e0b9ff3d2a130cbd6075cc6674273fa8c2166a1e59d5defb584d30b214837c84e0101c5d9239adfe94286f2ce89f8a8e317e2f1dcc85c06"
+  "signature": "fd0b8640091ffc99d20a2302944b22d369df10b0e69be0057cb4390524bc793e0cdc94d4e15918904c7f7830ee0243bb61c6c3ee6551fe53eb4c3fc68f6cf307"
 }
