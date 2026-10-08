@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 33,
+    "versionCode": 34,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-08T09:39:17Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code33/manga-froggy-internal-code33.apk",
-    "apkSize": 48647971,
-    "sha256": "f110ec3e7fbdb0d461129b9187b8b1b56940ee0c0422bda3dd10cebc79ab7403",
-    "releaseNotes": "INTERNAL code33: importación Mihon automática segura con una confirmación, preview compacta, red acotada, índices de capítulos y verificación SQLite. Preserva datos pendientes y reimportación idempotente. Reader/updater intactos. Aceptación física pendiente.\r\n",
+    "publishedAt": "2026-10-08T14:23:01Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code34/manga-froggy-internal-code34.apk",
+    "apkSize": 48650211,
+    "sha256": "ab1914a3b369ef6f20a5647587a6ae4d4826aaa2b49e8a8d98c584374f76faa9",
+    "releaseNotes": "INTERNAL code34: correcciones de fichas Mihon. Título canónico sin fuente, pertenencia por canonicalId, placeholder tras fallo real de portada, Otro tipo, status2 completado sin sobrescribir estados confirmados, fuente pendiente de resolución y consulta técnica de solo lectura. Reader y trabajo Mihon31–33 intactos. Aceptación física pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "dc882054864b85ef08898ec9f19441136626444b9194f0603e75f0d6f69f7747276c024b4fc864dd3bdfe58c8df7c73d8ac1b27a05e31a31ffe73302bd40da05"
+  "signature": "6b1b0cec03050dc5920cee7b65376eec42a5af1d587fb20c4033117ad64bd14b68473d2cf7ca74cc429b3a90592668d24d89628001df51195b0d18506399860b"
 }
