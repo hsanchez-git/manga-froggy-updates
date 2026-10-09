@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 35,
+    "versionCode": 36,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-08T16:15:18Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code35/manga-froggy-internal-code35.apk",
-    "apkSize": 48671267,
-    "sha256": "97a20dd21df9ba8a80e598d61474f38c66f48b48667b609d01d88f50caf1d17c",
-    "releaseNotes": "Vinculación manual segura de 20 Seiki Shounen con MangaOni. Revisión de identidad independiente, confirmación explícita e índice atómico. Los registros Mihon permanecen pendientes; no se reconcilia progreso. Lectura de muestras verificada, sin garantía sobre todos los capítulos. Sin cambios en Reader ni updater.\r\n",
+    "publishedAt": "2026-10-08T20:55:31Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code36/manga-froggy-internal-code36.apk",
+    "apkSize": 48706067,
+    "sha256": "a3d5dee1fb6b6876c2d7e58a1abbce6e53c69ccbc4db41707ce880f99741891b",
+    "releaseNotes": "Recuperación automática segura de fuentes: discovery al abrir obras sin vínculos, aliases documentados, verificación de releases españoles y muestras de imágenes, fallback al mismo capítulo, cooldown persistente y revalidación de fuentes. Corregido el selector de salud MangaOni. Los datos Mihon permanecen intactos; no se reconcilian lecturas. No se traslada automáticamente una página entre ediciones sin identidad verificable. No se garantiza cobertura alternativa cuando no exista una fuente validada.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "417fd86bdc2eeca8b33519798c8ebaa590da363731f68135bcbc761077d0dfdf520b44d8fd72131ac77c4aa178dc73c520c7a7999334de809231d4cf4851310c"
+  "signature": "9d4d939a231b570408b07b6efae16c32d7dab0ecc42872852e53662951d1fff7e484e6919f9703a9956d2459d6b7ce81ca6b55efb8e020f7869b11902c47da05"
 }
