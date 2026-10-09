@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 36,
+    "versionCode": 37,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-08T20:55:31Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code36/manga-froggy-internal-code36.apk",
-    "apkSize": 48706067,
-    "sha256": "a3d5dee1fb6b6876c2d7e58a1abbce6e53c69ccbc4db41707ce880f99741891b",
-    "releaseNotes": "Recuperación automática segura de fuentes: discovery al abrir obras sin vínculos, aliases documentados, verificación de releases españoles y muestras de imágenes, fallback al mismo capítulo, cooldown persistente y revalidación de fuentes. Corregido el selector de salud MangaOni. Los datos Mihon permanecen intactos; no se reconcilian lecturas. No se traslada automáticamente una página entre ediciones sin identidad verificable. No se garantiza cobertura alternativa cuando no exista una fuente validada.\r\n",
+    "publishedAt": "2026-10-09T07:32:49Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code37/manga-froggy-internal-code37.apk",
+    "apkSize": 48726303,
+    "sha256": "54f3b4703c758ec38a46db5c8f866adf5a85f6c5e67bcbac7cd420b44153aec9",
+    "releaseNotes": "Descubrimiento por aliases verificados compartido entre Explorar y recuperación, con japonés conservado, fallback de metadatos y backoff de Wikidata. Nueva fuente oficial Pepper&Carrot (cómic de fantasía, CC BY 4.0) con traducciones españolas e imágenes documentadas. Mensajes de disponibilidad y reintento acotado en fichas sin fuente. Se conserva la recuperación segura de code36, el Reader y los datos Mihon sin reconciliación. No garantiza disponibilidad autorizada de todas las obras ni fusión de identidades con autores no corroborados. Preparación local; sin publicación ni instalación.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "9d4d939a231b570408b07b6efae16c32d7dab0ecc42872852e53662951d1fff7e484e6919f9703a9956d2459d6b7ce81ca6b55efb8e020f7869b11902c47da05"
+  "signature": "99ca6306e3a2aea328fb21dc6ac88ce6e82dfe00d5a053d4e134613d60c8c2fbc11e95a898bbd0891d0340884abe838c9a161954f0537cd784c49563253da400"
 }
