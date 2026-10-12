@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 37,
+    "versionCode": 38,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-09T07:32:49Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code37/manga-froggy-internal-code37.apk",
-    "apkSize": 48726303,
-    "sha256": "54f3b4703c758ec38a46db5c8f866adf5a85f6c5e67bcbac7cd420b44153aec9",
-    "releaseNotes": "Descubrimiento por aliases verificados compartido entre Explorar y recuperación, con japonés conservado, fallback de metadatos y backoff de Wikidata. Nueva fuente oficial Pepper&Carrot (cómic de fantasía, CC BY 4.0) con traducciones españolas e imágenes documentadas. Mensajes de disponibilidad y reintento acotado en fichas sin fuente. Se conserva la recuperación segura de code36, el Reader y los datos Mihon sin reconciliación. No garantiza disponibilidad autorizada de todas las obras ni fusión de identidades con autores no corroborados. Preparación local; sin publicación ni instalación.\n",
+    "publishedAt": "2026-10-12T19:39:48Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code38/manga-froggy-internal-code38.apk",
+    "apkSize": 64561450,
+    "sha256": "ab5b365e8340d2a6aeb337123bebe51f7c58dd89d42b98c1ddc714a5581e2571",
+    "releaseNotes": "Búsqueda local tolerante a errores y catálogo público SQLite de 11.958 obras. Incluye diagnóstico Android de red, batería y recursos. El actualizador independiente del catálogo remoto permanece desactivado. Sin reconciliación de progreso Mihon; validación física Android pendiente.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "99ca6306e3a2aea328fb21dc6ac88ce6e82dfe00d5a053d4e134613d60c8c2fbc11e95a898bbd0891d0340884abe838c9a161954f0537cd784c49563253da400"
+  "signature": "763de607f5106c6c0951aa1beb22615191ca77322aa24fc1fc7b02d2fe84b6ab5cf8acbeb0552ada805c24521e6769baa38e27034ce8ef2b3fff5047f3e27e06"
 }
