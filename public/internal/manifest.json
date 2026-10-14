@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 40,
+    "versionCode": 41,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-14T17:10:05Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code40/manga-froggy-internal-code40.apk",
-    "apkSize": 65505122,
-    "sha256": "5d4551be3a342aa36ffe846c62f3ca7d6f7c4cfd2556b66d93a1e8f83137af33",
-    "releaseNotes": "Búsqueda de títulos más precisa, agrupación de obras y ediciones, investigación de fuentes españolas, filtros avanzados e inventario con posibles huecos de capítulos. Reader automático según formato y preferencias, con mejoras de estabilidad. Búsqueda por historia experimental con cobertura limitada. Los releases declarados españoles no implican verificación del idioma de todas sus imágenes. Sin reconciliación automática de progreso Mihon. Aceptación física Android pendiente.\r\n",
+    "publishedAt": "2026-10-14T19:02:35Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code41/manga-froggy-internal-code41.apk",
+    "apkSize": 65512014,
+    "sha256": "7841da766062b6f544e90cdd283874b45a309c0405b9366a6f9be2b243442f14",
+    "releaseNotes": "Manga Froggy INTERNAL code41\n\nCorrecciones de apertura del Reader: límite de espera, errores, cancelación y reintentos. Paginación y renovación de caché de capítulos; mejoras para investigar la cobertura de Tsuihou y Solo Leveling. Distinción de manga y novela cuando existe evidencia del proveedor. Recuperación descriptiva remota corregida.\n\nLimitaciones: Soul Eater todavía puede mostrar entradas separadas por discrepancias de identidad. Los capítulos declarados españoles no implican verificación del idioma de todas sus imágenes. Cobertura y apertura pendientes de aceptación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "1c74f48cb2ee0b71813cb66c4c7624f9c7a7c1b55718bceea5b81474e67973262a2711d337618309073535cb124f48928d9569e9275d57b921abcdfe79a8110c"
+  "signature": "6b616f1f1e3f99805239e5a1e4db0b4d5880472f01e43b950cbd0fe5dbe244146e33d99fb021421b103c47bf67a90154ff1c858e57831452fc9129ca2a8e980b"
 }
