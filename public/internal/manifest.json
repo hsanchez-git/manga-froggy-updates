@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 43,
+    "versionCode": 44,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-15T15:33:55Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code43/manga-froggy-internal-code43.apk",
-    "apkSize": 65542026,
-    "sha256": "adf92e30e1ab44e26c67e8604366a6c9daad2154d8d5e3e06084d83705c20ad5",
-    "releaseNotes": "Manga Froggy INTERNAL code43 — Performance R2/R2.1\n\nMejoras:\n- Reducción de procesamiento redundante en búsqueda y agrupación.\n- Entrega anticipada de los primeros resultados.\n- Procesamiento cooperativo para mejorar la respuesta de la interfaz.\n- Actualizaciones por lotes.\n- Scheduler con límites por proveedor y prioridades.\n- Cancelación y descarte de consultas obsoletas.\n- Mejor reutilización de índices y normalización.\n- Menos actualizaciones en pantallas ocultas.\n- Presentación de datos locales mientras se comprueba la conectividad.\n- Instrumentación adicional de retraso JavaScript y colas.\n\nLimitaciones:\n- La fluidez real en Xiaomi todavía requiere comprobación.\n- Los benchmarks de Node no equivalen al rendimiento Android.\n- Tsuihou y otras fuentes pueden presentar problemas independientes.\n- Las coincidencias de identidad ambiguas permanecen protegidas.\n\nActualización INTERNAL42 →43, mismo paquete y certificado. No desinstalar para actualizar.\r\n",
+    "publishedAt": "2026-10-15T18:31:20Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code44/manga-froggy-internal-code44.apk",
+    "apkSize": 65551062,
+    "sha256": "8e757d02a9cfc66f2ca302d72399653c76fff55249cc99b3f777c67b9dea8814",
+    "releaseNotes": "Manga Froggy INTERNAL code44 — Performance R3\n\nMejoras:\n- Asociación cooperativa con catálogo y reducción de invalidaciones.\n- Corrección del alias Souleater.\n- Diagnóstico de búsquedas vacías, canceladas, incompletas o descartadas.\n- Lectura vertical automática para la edición webtoon acreditada de Solo Leveling en MangaOni.\n- Preferencias manuales conservadas; mejoras acumuladas R2/R2.1.\n\nLimitaciones:\n- Desaparición de Soul Eater sin causa física confirmada.\n- Lectura vertical, rendimiento adicional y Tsuihou pendientes de aceptación Android.\n\nActualización INTERNAL code43 → code44; mismo paquete y certificado. No desinstalar.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "ec468ba7fc266cb8292832ce8c57e0963593d2019d86df3a58f7e9972693868aace99b5d6fecf52aa7b3f543668fa1620ab12541d8c10c42256be5535b763e08"
+  "signature": "e67bc4d933d6b5387ba026661d75dca84cc1a7dfa22fe8a0c71808522bce036fc27e76c7416d5bd83800d3af58477bb6ca9504579a380ecbb2200e7f27d5af07"
 }
