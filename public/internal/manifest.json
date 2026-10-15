@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 41,
+    "versionCode": 42,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-14T19:02:35Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code41/manga-froggy-internal-code41.apk",
-    "apkSize": 65512014,
-    "sha256": "7841da766062b6f544e90cdd283874b45a309c0405b9366a6f9be2b243442f14",
-    "releaseNotes": "Manga Froggy INTERNAL code41\n\nCorrecciones de apertura del Reader: límite de espera, errores, cancelación y reintentos. Paginación y renovación de caché de capítulos; mejoras para investigar la cobertura de Tsuihou y Solo Leveling. Distinción de manga y novela cuando existe evidencia del proveedor. Recuperación descriptiva remota corregida.\n\nLimitaciones: Soul Eater todavía puede mostrar entradas separadas por discrepancias de identidad. Los capítulos declarados españoles no implican verificación del idioma de todas sus imágenes. Cobertura y apertura pendientes de aceptación física Android.\r\n",
+    "publishedAt": "2026-10-15T07:31:26Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code42/manga-froggy-internal-code42.apk",
+    "apkSize": 65518306,
+    "sha256": "74e53712b6cab4f7d196c0325ff14bac658566f702dd6387292fd7f191df5d97",
+    "releaseNotes": "Manga Froggy INTERNAL code42\r\n\r\nMejoras de fiabilidad del Reader, tiempos de espera y control de imágenes y respuestas tardías. Presentación anticipada de capítulos disponibles localmente. Agrupación visual de coincidencias posibles sin fusionar identidades ni transferir progreso.\r\n\r\nNuevo panel: Ajustes → Desarrollo → Rendimiento y fiabilidad. Permite consultar y copiar etapas, duraciones y errores de preparación y lectura para investigar Android sin USB.\r\n\r\nLimitaciones: Tsuihou requiere aceptación física; rendimiento Xiaomi pendiente de medición. Algunas identidades ambiguas pueden permanecer separadas. Los capítulos declarados españoles no garantizan que todas sus imágenes estén verificadas.\r\n\r\nActualización INTERNAL41 →42, mismo paquete y certificado. Sin cambios en STABLE/RELEASE. No desinstalar la app para actualizar.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "6b616f1f1e3f99805239e5a1e4db0b4d5880472f01e43b950cbd0fe5dbe244146e33d99fb021421b103c47bf67a90154ff1c858e57831452fc9129ca2a8e980b"
+  "signature": "0d26a94e66dffb462e13d1e16679001aa2bf5c2b387da6de4c29d77286f13efe07e01376d2bcb08baccabd39bfd4a889d7007ae8f96c48206ff11190c47e0f0d"
 }
