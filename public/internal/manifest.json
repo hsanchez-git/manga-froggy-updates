@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 42,
+    "versionCode": 43,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-15T07:31:26Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code42/manga-froggy-internal-code42.apk",
-    "apkSize": 65518306,
-    "sha256": "74e53712b6cab4f7d196c0325ff14bac658566f702dd6387292fd7f191df5d97",
-    "releaseNotes": "Manga Froggy INTERNAL code42\r\n\r\nMejoras de fiabilidad del Reader, tiempos de espera y control de imágenes y respuestas tardías. Presentación anticipada de capítulos disponibles localmente. Agrupación visual de coincidencias posibles sin fusionar identidades ni transferir progreso.\r\n\r\nNuevo panel: Ajustes → Desarrollo → Rendimiento y fiabilidad. Permite consultar y copiar etapas, duraciones y errores de preparación y lectura para investigar Android sin USB.\r\n\r\nLimitaciones: Tsuihou requiere aceptación física; rendimiento Xiaomi pendiente de medición. Algunas identidades ambiguas pueden permanecer separadas. Los capítulos declarados españoles no garantizan que todas sus imágenes estén verificadas.\r\n\r\nActualización INTERNAL41 →42, mismo paquete y certificado. Sin cambios en STABLE/RELEASE. No desinstalar la app para actualizar.\r\n",
+    "publishedAt": "2026-10-15T15:33:55Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code43/manga-froggy-internal-code43.apk",
+    "apkSize": 65542026,
+    "sha256": "adf92e30e1ab44e26c67e8604366a6c9daad2154d8d5e3e06084d83705c20ad5",
+    "releaseNotes": "Manga Froggy INTERNAL code43 — Performance R2/R2.1\n\nMejoras:\n- Reducción de procesamiento redundante en búsqueda y agrupación.\n- Entrega anticipada de los primeros resultados.\n- Procesamiento cooperativo para mejorar la respuesta de la interfaz.\n- Actualizaciones por lotes.\n- Scheduler con límites por proveedor y prioridades.\n- Cancelación y descarte de consultas obsoletas.\n- Mejor reutilización de índices y normalización.\n- Menos actualizaciones en pantallas ocultas.\n- Presentación de datos locales mientras se comprueba la conectividad.\n- Instrumentación adicional de retraso JavaScript y colas.\n\nLimitaciones:\n- La fluidez real en Xiaomi todavía requiere comprobación.\n- Los benchmarks de Node no equivalen al rendimiento Android.\n- Tsuihou y otras fuentes pueden presentar problemas independientes.\n- Las coincidencias de identidad ambiguas permanecen protegidas.\n\nActualización INTERNAL42 →43, mismo paquete y certificado. No desinstalar para actualizar.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "0d26a94e66dffb462e13d1e16679001aa2bf5c2b387da6de4c29d77286f13efe07e01376d2bcb08baccabd39bfd4a889d7007ae8f96c48206ff11190c47e0f0d"
+  "signature": "ec468ba7fc266cb8292832ce8c57e0963593d2019d86df3a58f7e9972693868aace99b5d6fecf52aa7b3f543668fa1620ab12541d8c10c42256be5535b763e08"
 }
