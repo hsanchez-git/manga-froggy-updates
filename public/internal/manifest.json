@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 45,
+    "versionCode": 46,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-16T07:54:02Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code45/manga-froggy-internal-code45.apk",
-    "apkSize": 65562462,
-    "sha256": "12b510ddc54a8b703b24ac7b51ac3fbdd5df8c941cdd05656338cab45ceba248",
-    "releaseNotes": "Manga Froggy INTERNAL code45 — Reader & Discovery R4\n\nMejoras:\n- Precarga anticipada de imágenes completas para reducir la espera entre páginas.\n- Aprovechamiento de caché y prioridades según lectura.\n- Soporte de precarga en manga RTL y webtoon vertical.\n- Zoom vertical libre de 0,5× a 3×, pan horizontal al ampliar y restablecimiento.\n- Corrección del descubrimiento de la edición manga de Tsuihou.\n- Separación segura entre manga y novela ligera.\n- Conservación de las optimizaciones de rendimiento anteriores.\n\nLimitaciones:\n- La velocidad entre páginas todavía necesita validación Android.\n- Algunos fallbacks pueden repetir descargas.\n- Zoom táctil, desplazamiento y memoria requieren pruebas físicas.\n- Los 187 releases declarados españoles de Tsuihou no equivalen a 187 capítulos únicos o legibles confirmados.\n\nActualización INTERNAL code44 → code45, mismo paquete y certificado. No desinstalar para actualizar.\r\n",
+    "publishedAt": "2026-10-16T12:42:43Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code46/manga-froggy-internal-code46.apk",
+    "apkSize": 65568354,
+    "sha256": "f876fe709be800071026004576673d441826f3bcf5ad932206793a29226f835b",
+    "releaseNotes": "Manga Froggy INTERNAL code46 — Reader Quality R5.\r\nMejor calidad de decodificación durante el zoom y aprovechamiento de la resolución original apropiada, con objetivos de memoria y fallbacks acotados. Corrección del bloqueo del manga de Tsuihou por coincidencia con la novela. Apertura explícita de fichas de fuentes independientes; identidades inciertas pendientes y progreso protegido. Nitidez, memoria y Tsuihou pendientes de validación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "065ef2eba62d63f4dc13fc920a0d7e2bc77bf3d9fb8543759f9b3380536cedc378d58ea759d889c37cbd99e7443a4a1697d5fcfaa2993fcf9d26ebc292907700"
+  "signature": "247c0c45a47323fec981c96518ae05f69ac227f18b68754084934e313c2ab1412648e941ced0e94d90d0a9ae0f3b7b1fa1dec3236a4b4e70292c638aeefc5d00"
 }
