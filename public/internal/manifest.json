@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 48,
+    "versionCode": 49,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-16T15:19:52Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code48/manga-froggy-internal-code48.apk",
-    "apkSize": 65590386,
-    "sha256": "0d1cb8da1d821ac4769b04dc77ba32cdc782852eae2f1ad809b1f81872626779",
-    "releaseNotes": "Manga Froggy INTERNAL code48 — Reader Smoothness R7.\r\n\r\n- Corrección de desaparición temporal de páginas visibles en lectura vertical.\r\n- Eliminación del fundido nativo de imágenes de 300 ms.\r\n- Diagnóstico visual opcional de sesión limitado a 80 eventos y copiable.\r\n- Zoom sin modificaciones artificiales.\r\n\r\nPendiente validación física de parpadeos, nitidez, memoria y fluidez en Android.\r\n",
+    "publishedAt": "2026-10-16T18:36:07Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code49/manga-froggy-internal-code49.apk",
+    "apkSize": 65592930,
+    "sha256": "e938fa6fe4b515d551465b2b14d6dd049210795ee2a424b474030d0fe5e23c76",
+    "releaseNotes": "Manga Froggy INTERNAL code49 — Reader R8 Diagnostic.\r\n\r\n- Diagnóstico visual opcional, desactivado por defecto, limitado a 80 eventos.\r\n- Correlación de posición del pager, transición de preview, solicitud y decodificación de imagen.\r\n- Sin cambios de navegación, lectura vertical, zoom ni presupuestos de memoria.\r\n\r\nNo es una reparación demostrada del parpadeo RTL. Pendiente captura y diagnóstico físico Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "8967d460d8eccb2f1f249816c0bb8d408ca20a81a58e8d9d1c9136075c3959a1294e6a74ff704b4add26de4b56e7cab51c20912d41a976fbb2afc755e0f06f00"
+  "signature": "19170009056ff466cc9a314eb292163a944a3754ee90a4ba5b6dbb23c979ef7ff3e1f390853afca2f4f7a9b6db52b941df7a8ed03541f1a41a910dc58d582a0c"
 }
