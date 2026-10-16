@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 47,
+    "versionCode": 48,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-16T14:32:48Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code47/manga-froggy-internal-code47.apk",
-    "apkSize": 65584946,
-    "sha256": "f929481ec110fc12b2e55f44f9dc590ad49a5a319676bf1d5960eb339eb307b8",
-    "releaseNotes": "Manga Froggy INTERNAL code47 — OTA Reliability R6.\r\n\r\n- Corrección de manifiestos obsoletos servidos desde caché.\r\n- Protección contra respuestas tardías de comprobaciones simultáneas.\r\n- Mejor diferenciación de errores y ausencia real de actualizaciones.\r\n- Nuevo diagnóstico en Ajustes → Desarrollo → Diagnóstico de actualizaciones OTA.\r\n- Visualización de versión nativa instalada, firma, resultado y motivo.\r\n- Conservación de la seguridad Ed25519 y protección frente a retrocesos.\r\n- Mejoras acumuladas de Reader Quality R5.\r\n\r\nPendiente aceptación física Android. Los clientes cuyo actualizador antiguo falle pueden necesitar instalar code47 manualmente una vez, sobre la instalación existente y sin borrar datos.\r\n",
+    "publishedAt": "2026-10-16T15:19:52Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code48/manga-froggy-internal-code48.apk",
+    "apkSize": 65590386,
+    "sha256": "0d1cb8da1d821ac4769b04dc77ba32cdc782852eae2f1ad809b1f81872626779",
+    "releaseNotes": "Manga Froggy INTERNAL code48 — Reader Smoothness R7.\r\n\r\n- Corrección de desaparición temporal de páginas visibles en lectura vertical.\r\n- Eliminación del fundido nativo de imágenes de 300 ms.\r\n- Diagnóstico visual opcional de sesión limitado a 80 eventos y copiable.\r\n- Zoom sin modificaciones artificiales.\r\n\r\nPendiente validación física de parpadeos, nitidez, memoria y fluidez en Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "3c7232701cb64458b47ea5c926f29b3c94fdb43e6946b2b8e014833111d725a1036b80f211c81d75bab3b619b43574eb4cfc463b8856f68ad59f84bd8607ae01"
+  "signature": "8967d460d8eccb2f1f249816c0bb8d408ca20a81a58e8d9d1c9136075c3959a1294e6a74ff704b4add26de4b56e7cab51c20912d41a976fbb2afc755e0f06f00"
 }
