@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 46,
+    "versionCode": 47,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-16T12:42:43Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code46/manga-froggy-internal-code46.apk",
-    "apkSize": 65568354,
-    "sha256": "f876fe709be800071026004576673d441826f3bcf5ad932206793a29226f835b",
-    "releaseNotes": "Manga Froggy INTERNAL code46 — Reader Quality R5.\r\nMejor calidad de decodificación durante el zoom y aprovechamiento de la resolución original apropiada, con objetivos de memoria y fallbacks acotados. Corrección del bloqueo del manga de Tsuihou por coincidencia con la novela. Apertura explícita de fichas de fuentes independientes; identidades inciertas pendientes y progreso protegido. Nitidez, memoria y Tsuihou pendientes de validación física Android.\r\n",
+    "publishedAt": "2026-10-16T14:32:48Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code47/manga-froggy-internal-code47.apk",
+    "apkSize": 65584946,
+    "sha256": "f929481ec110fc12b2e55f44f9dc590ad49a5a319676bf1d5960eb339eb307b8",
+    "releaseNotes": "Manga Froggy INTERNAL code47 — OTA Reliability R6.\r\n\r\n- Corrección de manifiestos obsoletos servidos desde caché.\r\n- Protección contra respuestas tardías de comprobaciones simultáneas.\r\n- Mejor diferenciación de errores y ausencia real de actualizaciones.\r\n- Nuevo diagnóstico en Ajustes → Desarrollo → Diagnóstico de actualizaciones OTA.\r\n- Visualización de versión nativa instalada, firma, resultado y motivo.\r\n- Conservación de la seguridad Ed25519 y protección frente a retrocesos.\r\n- Mejoras acumuladas de Reader Quality R5.\r\n\r\nPendiente aceptación física Android. Los clientes cuyo actualizador antiguo falle pueden necesitar instalar code47 manualmente una vez, sobre la instalación existente y sin borrar datos.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "247c0c45a47323fec981c96518ae05f69ac227f18b68754084934e313c2ab1412648e941ced0e94d90d0a9ae0f3b7b1fa1dec3236a4b4e70292c638aeefc5d00"
+  "signature": "3c7232701cb64458b47ea5c926f29b3c94fdb43e6946b2b8e014833111d725a1036b80f211c81d75bab3b619b43574eb4cfc463b8856f68ad59f84bd8607ae01"
 }
