@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 44,
+    "versionCode": 45,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-15T18:31:20Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code44/manga-froggy-internal-code44.apk",
-    "apkSize": 65551062,
-    "sha256": "8e757d02a9cfc66f2ca302d72399653c76fff55249cc99b3f777c67b9dea8814",
-    "releaseNotes": "Manga Froggy INTERNAL code44 — Performance R3\n\nMejoras:\n- Asociación cooperativa con catálogo y reducción de invalidaciones.\n- Corrección del alias Souleater.\n- Diagnóstico de búsquedas vacías, canceladas, incompletas o descartadas.\n- Lectura vertical automática para la edición webtoon acreditada de Solo Leveling en MangaOni.\n- Preferencias manuales conservadas; mejoras acumuladas R2/R2.1.\n\nLimitaciones:\n- Desaparición de Soul Eater sin causa física confirmada.\n- Lectura vertical, rendimiento adicional y Tsuihou pendientes de aceptación Android.\n\nActualización INTERNAL code43 → code44; mismo paquete y certificado. No desinstalar.\r\n",
+    "publishedAt": "2026-10-16T07:54:02Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code45/manga-froggy-internal-code45.apk",
+    "apkSize": 65562462,
+    "sha256": "12b510ddc54a8b703b24ac7b51ac3fbdd5df8c941cdd05656338cab45ceba248",
+    "releaseNotes": "Manga Froggy INTERNAL code45 — Reader & Discovery R4\n\nMejoras:\n- Precarga anticipada de imágenes completas para reducir la espera entre páginas.\n- Aprovechamiento de caché y prioridades según lectura.\n- Soporte de precarga en manga RTL y webtoon vertical.\n- Zoom vertical libre de 0,5× a 3×, pan horizontal al ampliar y restablecimiento.\n- Corrección del descubrimiento de la edición manga de Tsuihou.\n- Separación segura entre manga y novela ligera.\n- Conservación de las optimizaciones de rendimiento anteriores.\n\nLimitaciones:\n- La velocidad entre páginas todavía necesita validación Android.\n- Algunos fallbacks pueden repetir descargas.\n- Zoom táctil, desplazamiento y memoria requieren pruebas físicas.\n- Los 187 releases declarados españoles de Tsuihou no equivalen a 187 capítulos únicos o legibles confirmados.\n\nActualización INTERNAL code44 → code45, mismo paquete y certificado. No desinstalar para actualizar.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "e67bc4d933d6b5387ba026661d75dca84cc1a7dfa22fe8a0c71808522bce036fc27e76c7416d5bd83800d3af58477bb6ca9504579a380ecbb2200e7f27d5af07"
+  "signature": "065ef2eba62d63f4dc13fc920a0d7e2bc77bf3d9fb8543759f9b3380536cedc378d58ea759d889c37cbd99e7443a4a1697d5fcfaa2993fcf9d26ebc292907700"
 }
