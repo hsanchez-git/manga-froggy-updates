@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 57,
+    "versionCode": 58,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T18:46:25Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code57/manga-froggy-internal-code57.apk",
-    "apkSize": 65663682,
-    "sha256": "e7457b86a65e1cb33486b0868e5e7607c956c5b73421809a8a30ca34ca21a52d",
-    "releaseNotes": "Manga Froggy INTERNAL code57 — Mihon R17.\r\nInspección diagnóstica de grupos de lectura M001 exclusivamente de solo lectura. Exportación local anonimizada, sin recuperación de lecturas ni cambios de progreso. Pendiente de inspección física en Xiaomi.\r\n",
+    "publishedAt": "2026-10-17T19:23:02Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code58/manga-froggy-internal-code58.apk",
+    "apkSize": 65682086,
+    "sha256": "010938f2761973d0e12854b650c09801f535ed36a08ce0ac050fa64f45c4cf17",
+    "releaseNotes": "Manga Froggy INTERNAL code58 — Mihon R18/R19.\r\nReconoce grupos completos acreditados que ya estaban leídos, sin acciones nuevas. Visor del historial original Mihon de solo lectura, en memoria, con obras favoritas y externas, filtros, lecturas, parciales y visitas separados. No recupera capítulos ni modifica progreso. Pendiente validación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "3d1a62d1929fa1c027a7f188fa129995f5d015a3de572ff6da10436026e795d21e74eca23621e4a66405331afc8a86656401862772d6c8875cc11c0397ecc805"
+  "signature": "b098ea6fff321a8b71c14e48f979ace073b0d74571c93954bd6c881ca98afb80ea9bd6e2c26b32996c69986d3ca8f1b89139690a0601646fc76fd8ebe0761d08"
 }
