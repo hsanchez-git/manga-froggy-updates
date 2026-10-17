@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 51,
+    "versionCode": 52,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T08:40:25Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code51/manga-froggy-internal-code51.apk",
-    "apkSize": 65600278,
-    "sha256": "02f795010461093020da1ef95c9999694ffe38bfc21043cf0ef7df8ebfca2111",
-    "releaseNotes": "Manga Froggy INTERNAL code51 — Native Image Continuity Diagnostic.\r\n\r\nDiagnóstico nativo opcional de jerarquía/drawable y posiciones, correlación con eventos JS, máximo4vistas/256eventos/90segundos. Desactivado por defecto; sin imágenes almacenadas. Conserva optimización local de actualizaciones redundantes de caché. NO es una corrección acreditada del parpadeo negro. Pendiente validación física Android.\r\n",
+    "publishedAt": "2026-10-17T09:11:06Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code52/manga-froggy-internal-code52.apk",
+    "apkSize": 65600842,
+    "sha256": "b0c809a3c2db86e82b18f7e2223397ac078981b6339d128a92eb3458b81b483f",
+    "releaseNotes": "Manga Froggy INTERNAL code52 — R10 Reader Performance.\r\n\r\nReduce hashes repetidos de ventana, estabiliza referencias de frames conservando invalidación por credenciales y elimina viajes JS/UI redundantes de registros originados en JS. Conserva diagnóstico nativo opt-in. Pendiente validación física de retrasos, bloqueos y parpadeo negro; no se declara corregido en Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "67df84f50d90c2a2222f6e2e90e719e20437828eece79158c348c8f39306dee14ea2b929619b56afc657e9ae529825c11587d263cff0bba839abd1c3209dda03"
+  "signature": "87b7a37d5327bbba609aea7a7f6e434ce659c391a7e4cf5f78f46ec63ae503901498eeac045c1b6f7a0ffafc3e53f556f45ee583e5ba7f28813149fea173e402"
 }
