@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 50,
+    "versionCode": 51,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T07:39:08Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code50/manga-froggy-internal-code50.apk",
-    "apkSize": 65597702,
-    "sha256": "42fd49333d786c24a9a21dc951e2c3b78f096627b4efa9a8ed729a4f18c8288d",
-    "releaseNotes": "Manga Froggy INTERNAL code50 — R9C Diagnostic.\r\n\r\nDiagnóstico visual opcional: superficies diferenciadas, cambios de URI/key/receta, marcadores de gesto y eventos deduplicados; retención acotada a256eventos. Desactivado por defecto. Sin cambios de navegación, decodificación, zoom ni lectura vertical. NO es una corrección del parpadeo RTL. Pendiente diagnóstico físico Android.\r\n",
+    "publishedAt": "2026-10-17T08:40:25Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code51/manga-froggy-internal-code51.apk",
+    "apkSize": 65600278,
+    "sha256": "02f795010461093020da1ef95c9999694ffe38bfc21043cf0ef7df8ebfca2111",
+    "releaseNotes": "Manga Froggy INTERNAL code51 — Native Image Continuity Diagnostic.\r\n\r\nDiagnóstico nativo opcional de jerarquía/drawable y posiciones, correlación con eventos JS, máximo4vistas/256eventos/90segundos. Desactivado por defecto; sin imágenes almacenadas. Conserva optimización local de actualizaciones redundantes de caché. NO es una corrección acreditada del parpadeo negro. Pendiente validación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "7f373761de8c8e0d44b5257e41625886b01bd163af984d4132166c0bdae97bffbb219e087fe8e475a2634607880a3e976873fc5dc7185176b6a27a19afa86701"
+  "signature": "67df84f50d90c2a2222f6e2e90e719e20437828eece79158c348c8f39306dee14ea2b929619b56afc657e9ae529825c11587d263cff0bba839abd1c3209dda03"
 }
