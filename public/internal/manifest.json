@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 55,
+    "versionCode": 56,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T15:03:16Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code55/manga-froggy-internal-code55.apk",
-    "apkSize": 65639274,
-    "sha256": "6dd832b0efdb409fed4d2d87d9af5c6402df97c6496a2442ff457ccdc82dc0f0",
-    "releaseNotes": "Manga Froggy INTERNAL code55 — R13: previsualizacion de recuperacion de progreso Mihon.\r\n\r\nSeleccion de copia local y consulta consistente de SQLite; reconocimiento por recibos e identidades exactas, sin fallback numerico. Distingue propuestas, conflictos y pendientes; informe agregado copiable. SOLO VISTA PREVIA: no aplica marcas, no crea obras ni modifica pendientes. Parciales sin paginacion acreditada permanecen para revision. Reader CODE54 intacto. Pendiente validacion fisica en Android.\r\n",
+    "publishedAt": "2026-10-17T16:57:05Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code56/manga-froggy-internal-code56.apk",
+    "apkSize": 65646374,
+    "sha256": "f46777abc019fa9d20fbdd6bb1a396a663ed8853a2d6d2040bbc3a132afc5d74",
+    "releaseNotes": "Manga Froggy INTERNAL code56 — Mihon Safe Recovery R15.\nCompatibilidad estricta de URLs MangaDex y UUID de capítulos; diagnóstico agrupado por fuente y obra; protección de recibos y pendientes frente a reimportaciones. Esta versión permite únicamente medir la recuperabilidad mediante la previsualización de solo lectura. No aplica recuperaciones. Correspondencias reales pendientes de comprobar en Xiaomi.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "5d88dd1132005b55f4b37cdacbde8b2951ee27ecba332bef0467c8be7cfb5d4f5bbe3bac1f9a39c3670f5f2ec7da4f26c8cbab058a6dd3e782f7c3bb567a8301"
+  "signature": "f2dca86fe566d873edc73d5b3757ba5fde86d99d8b22898aed973798c4c0daf10dfbbc03651a72b968929489a4b557edd14d7a0919398fce73a605fb62d7da05"
 }
