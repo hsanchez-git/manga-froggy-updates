@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 56,
+    "versionCode": 57,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T16:57:05Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code56/manga-froggy-internal-code56.apk",
-    "apkSize": 65646374,
-    "sha256": "f46777abc019fa9d20fbdd6bb1a396a663ed8853a2d6d2040bbc3a132afc5d74",
-    "releaseNotes": "Manga Froggy INTERNAL code56 — Mihon Safe Recovery R15.\nCompatibilidad estricta de URLs MangaDex y UUID de capítulos; diagnóstico agrupado por fuente y obra; protección de recibos y pendientes frente a reimportaciones. Esta versión permite únicamente medir la recuperabilidad mediante la previsualización de solo lectura. No aplica recuperaciones. Correspondencias reales pendientes de comprobar en Xiaomi.\r\n",
+    "publishedAt": "2026-10-17T18:46:25Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code57/manga-froggy-internal-code57.apk",
+    "apkSize": 65663682,
+    "sha256": "e7457b86a65e1cb33486b0868e5e7607c956c5b73421809a8a30ca34ca21a52d",
+    "releaseNotes": "Manga Froggy INTERNAL code57 — Mihon R17.\r\nInspección diagnóstica de grupos de lectura M001 exclusivamente de solo lectura. Exportación local anonimizada, sin recuperación de lecturas ni cambios de progreso. Pendiente de inspección física en Xiaomi.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "f2dca86fe566d873edc73d5b3757ba5fde86d99d8b22898aed973798c4c0daf10dfbbc03651a72b968929489a4b557edd14d7a0919398fce73a605fb62d7da05"
+  "signature": "3d1a62d1929fa1c027a7f188fa129995f5d015a3de572ff6da10436026e795d21e74eca23621e4a66405331afc8a86656401862772d6c8875cc11c0397ecc805"
 }
