@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 54,
+    "versionCode": 55,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T13:40:05Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code54/manga-froggy-internal-code54.apk",
-    "apkSize": 65609554,
-    "sha256": "870811c168c1e020a8d8a0e97547a889e455bc123cfcdf1cf7ca5094a85dc3f9",
-    "releaseNotes": "Manga Froggy INTERNAL code54 — Reader R11.\r\n\r\nRetención transitoria de imagen decodificada durante sustitución de receta preview/visible. Liberación por carga, fallo o plazo acotado. Recuperación de observación nativa en onLoad y keys diagnósticas coherentes. Conserva autoridad de navegación y optimizaciones R9/R10. Pendiente validación física de parpadeo, congelación y memoria; no se declaran resueltos.\r\n",
+    "publishedAt": "2026-10-17T15:03:16Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code55/manga-froggy-internal-code55.apk",
+    "apkSize": 65639274,
+    "sha256": "6dd832b0efdb409fed4d2d87d9af5c6402df97c6496a2442ff457ccdc82dc0f0",
+    "releaseNotes": "Manga Froggy INTERNAL code55 — R13: previsualizacion de recuperacion de progreso Mihon.\r\n\r\nSeleccion de copia local y consulta consistente de SQLite; reconocimiento por recibos e identidades exactas, sin fallback numerico. Distingue propuestas, conflictos y pendientes; informe agregado copiable. SOLO VISTA PREVIA: no aplica marcas, no crea obras ni modifica pendientes. Parciales sin paginacion acreditada permanecen para revision. Reader CODE54 intacto. Pendiente validacion fisica en Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "f449d9fc7466ba9572061d58352392af928470cba97e59a5e7ae5e48168f3f165092b79a071c0ca72c30e0fbda8388b4b37fd952e0104df4bfd330bac8884c0e"
+  "signature": "5d88dd1132005b55f4b37cdacbde8b2951ee27ecba332bef0467c8be7cfb5d4f5bbe3bac1f9a39c3670f5f2ec7da4f26c8cbab058a6dd3e782f7c3bb567a8301"
 }
