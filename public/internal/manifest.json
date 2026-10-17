@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 52,
+    "versionCode": 53,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T09:11:06Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code52/manga-froggy-internal-code52.apk",
-    "apkSize": 65600842,
-    "sha256": "b0c809a3c2db86e82b18f7e2223397ac078981b6339d128a92eb3458b81b483f",
-    "releaseNotes": "Manga Froggy INTERNAL code52 — R10 Reader Performance.\r\n\r\nReduce hashes repetidos de ventana, estabiliza referencias de frames conservando invalidación por credenciales y elimina viajes JS/UI redundantes de registros originados en JS. Conserva diagnóstico nativo opt-in. Pendiente validación física de retrasos, bloqueos y parpadeo negro; no se declara corregido en Android.\r\n",
+    "publishedAt": "2026-10-17T10:12:13Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code53/manga-froggy-internal-code53.apk",
+    "apkSize": 65607358,
+    "sha256": "eb28bb1ff944ee9e8d7fc96988e6cd2f9e46381f091f6197e0e4e1c50940f2ac",
+    "releaseNotes": "Manga Froggy INTERNAL code53 — Native Diagnostic State.\r\n\r\nConfirmación real de activación nativa, estado visible y motivos de parada, exportación actualizada. Sesiones opt-in limitadas a90segundos; limpiar no renueva el plazo. Preserva optimizaciones R9/R10. Versión diagnóstica: NO se declara corregido el parpadeo negro. Pendiente validación física en Xiaomi.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "87b7a37d5327bbba609aea7a7f6e434ce659c391a7e4cf5f78f46ec63ae503901498eeac045c1b6f7a0ffafc3e53f556f45ee583e5ba7f28813149fea173e402"
+  "signature": "035a98a03e21bc73ec94a987a772daf156d8616967185dae893e088a71a2775fb5180874736456d7fb72cab71a8c0db525ca1e7cef2c8df5f58390f6990f670c"
 }
