@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 67,
+    "versionCode": 68,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T13:39:51Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code67/manga-froggy-internal-code67.apk",
-    "apkSize": 65821182,
-    "sha256": "b038ea686e0d5b0b5289a961b23d441d7686d73e0ef9c48d4e0c3ca6aa5b5506",
-    "releaseNotes": "Manga Froggy INTERNAL code67 — Mihon Final.\r\nRecuperación supervisada por obra de lecturas completas, con distinción entre equivalencia verificada y correspondencia aceptada por el usuario. Excluye parciales, deduplica destinos y conserva progreso previo. Requiere recibo, fuente vinculada e índice local completo, revisión explícita y copia privada verificada antes de aplicar. Transacción idempotente y reversión limitada a cambios propios sin lecturas posteriores. No añade obras a Biblioteca ni aplica nada automáticamente al actualizar. Validación física Android pendiente. Conservar .tachibk original y copia general v7.\r\nAcceso virtualizado a todas las operaciones de reversión, incluidas las antiguas. CODE65 y CODE66 se conservan sin sustituir sus APK.\r\nPanel de revisión desplazable con altura acotada; listas de capítulos virtualizadas independientes y controles utilizables con teclado.\r\n",
+    "publishedAt": "2026-10-18T14:23:34Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code68/manga-froggy-internal-code68.apk",
+    "apkSize": 65832490,
+    "sha256": "fec3154b696f65f7e928d8acc75baae13fe3b4e7a106fcd4730653bd52bc8c14",
+    "releaseNotes": "Manga Froggy INTERNAL code68 — Mihon Auto Final.\n\n- Seleccionar el respaldo, análisis automático y una sola confirmación global.\n- Lecturas completas únicamente; parciales y progreso existente protegidos.\n- Evidencia exacta separada de inferencias únicas de volumen/número autorizadas globalmente.\n- Copia previa automática verificada, exportación y reversión selectiva.\n- Sin nuevas obras en Biblioteca; destinos ambiguos o sin vínculo español fiable se omiten.\n- Reutiliza los adapters y las transacciones existentes. Sin cambios de Reader ni STABLE.\n\nLas inferencias pueden equivocarse. No garantiza recuperar el 100%. Validación física pendiente; ninguna migración se ha ejecutado desde el PC.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "22c15b835ea7f76a1fd4561c5f6cde815dc81dad5afe5244dc1e02be3ab8c8ca9b7077902be6170844cbb700553514da053caf3b32b273d7e757ada0931bfb05"
+  "signature": "79b193e0f9c86e070f5df8d25f8d45a41a2ff7be9487682e074b8e9d106a5e3c9cca921ccaff25e402fec52e9103f2e843c01120feae61e7c22d30486d038400"
 }
