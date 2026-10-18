@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 65,
+    "versionCode": 66,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T13:25:16Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code65/manga-froggy-internal-code65.apk",
-    "apkSize": 65820606,
-    "sha256": "c51967ecadcdf5b0718c2a095964d29ed27d166481d90b75fabcfdcce4a247f3",
-    "releaseNotes": "Manga Froggy INTERNAL code65 — Mihon Final.\r\nRecuperación supervisada por obra de lecturas completas, con distinción entre equivalencia verificada y correspondencia aceptada por el usuario. Excluye parciales, deduplica destinos y conserva progreso previo. Requiere recibo, fuente vinculada e índice local completo, revisión explícita y copia privada verificada antes de aplicar. Transacción idempotente y reversión limitada a cambios propios sin lecturas posteriores. No añade obras a Biblioteca ni aplica nada automáticamente al actualizar. Validación física Android pendiente. Conservar .tachibk original y copia general v7.\r\n",
+    "publishedAt": "2026-10-18T13:30:28Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code66/manga-froggy-internal-code66.apk",
+    "apkSize": 65821522,
+    "sha256": "358dad339b054ad6095c6853135e46f34be9ed22ac7f5f624cbba5439f7bc890",
+    "releaseNotes": "Manga Froggy INTERNAL code66 — Mihon Final.\r\nRecuperación supervisada por obra de lecturas completas, con distinción entre equivalencia verificada y correspondencia aceptada por el usuario. Excluye parciales, deduplica destinos y conserva progreso previo. Requiere recibo, fuente vinculada e índice local completo, revisión explícita y copia privada verificada antes de aplicar. Transacción idempotente y reversión limitada a cambios propios sin lecturas posteriores. No añade obras a Biblioteca ni aplica nada automáticamente al actualizar. Validación física Android pendiente. Conservar .tachibk original y copia general v7.\r\nAcceso virtualizado a todas las operaciones de reversión, incluidas las antiguas. CODE65 se conserva sin sustituir su APK.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "d32766c1c37a722e13c7571685ea2af39f34a865b42d079a68aa4c933e890917f425e3b0ecf4f2898480d42b4cdf0be3917b9290a26d73cb05be828faeb18908"
+  "signature": "0e4a0c748712b0563141362bea3e195f9fce039d06a870d2af078ca8a1eb82ef5112ec41fb88684a67f0df175e76def322b1d763c066ceb4b6af52a80f8fb403"
 }
