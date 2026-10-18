@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 59,
+    "versionCode": 60,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T07:32:05Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code59/manga-froggy-internal-code59.apk",
-    "apkSize": 65723418,
-    "sha256": "4cc58fdbc708f971f3d13e7e394dc3f9e2591baa4ba767ded6aaff631fe1b293",
-    "releaseNotes": "Manga Froggy INTERNAL code59 — R20: migración supervisada entre proveedores.\n\nVista previa por obra TMO ya importada; búsqueda de candidatos, confirmación de identidad y comparación de capítulos. Permite excluir y corregir propuestas y aprobarlas únicamente en memoria. Escrituras de migración deshabilitadas: no aplica lecturas, no crea bindings ni modifica Biblioteca o progreso.\n\nPendiente validación física del flujo en Xiaomi. No se han recuperado lecturas.\r\n",
+    "publishedAt": "2026-10-18T08:01:44Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code60/manga-froggy-internal-code60.apk",
+    "apkSize": 65725594,
+    "sha256": "8012cfac5acd4c7b5d42321ef0162b5d755c9f0338e13e9242a24ba05cbe6b11",
+    "releaseNotes": "Manga Froggy INTERNAL code60 — R21: revisión supervisada de autores.\n\nPermite revisar explícitamente una discrepancia de autor escaso en la previsualización Mihon, únicamente con vínculo previo único y activo, títulos exactos y sin conflictos adicionales. Conserva bloqueos de identidades ambiguas, spin-offs y contradicciones reales. La revisión no acredita equivalencia de autores ni capítulos.\n\nEscrituras de migración deshabilitadas: no vincula fuentes ni aplica lecturas. Pendiente prueba física de Black Clover TMO → MangaOni.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "47a24cd693b6bee8b20d4c451d6c1bc015a1726e7fd5df03d811377f7401fef047a399ca119fb42481ff59c1a0a69fbfe335ae1a982bc6bc93365aae8d2c0d08"
+  "signature": "fcd8a8f441245d622cdde4dc74b64659970e6cc2ec3a813e2aebc0cebc629cd94c684b23ea4efc7e433a7eb177c62daf01f52567da48146f99f56a1ad73a9c08"
 }
