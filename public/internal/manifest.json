@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 64,
+    "versionCode": 65,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T12:16:50Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code64/manga-froggy-internal-code64.apk",
-    "apkSize": 65794106,
-    "sha256": "622ff4600dca36be9f27964347ea923d1b84d8e769753f32eaa413a54ffefde9",
-    "releaseNotes": "Manga Froggy INTERNAL code64 — Backup histórico Mihon R22.\r\nCopia general v7 con lotes históricos, lectura de copias v1–v6 y restauración histórica explícita e independiente del progreso principal. Límite 50 MiB, verificación e idempotencia. Conservar .tachibk original. Pendiente validación física de exportación/restauración Android.\r\n",
+    "publishedAt": "2026-10-18T13:25:16Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code65/manga-froggy-internal-code65.apk",
+    "apkSize": 65820606,
+    "sha256": "c51967ecadcdf5b0718c2a095964d29ed27d166481d90b75fabcfdcce4a247f3",
+    "releaseNotes": "Manga Froggy INTERNAL code65 — Mihon Final.\r\nRecuperación supervisada por obra de lecturas completas, con distinción entre equivalencia verificada y correspondencia aceptada por el usuario. Excluye parciales, deduplica destinos y conserva progreso previo. Requiere recibo, fuente vinculada e índice local completo, revisión explícita y copia privada verificada antes de aplicar. Transacción idempotente y reversión limitada a cambios propios sin lecturas posteriores. No añade obras a Biblioteca ni aplica nada automáticamente al actualizar. Validación física Android pendiente. Conservar .tachibk original y copia general v7.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "208313d6abac95d6ef6e0ec1d26a8b8d3111934d2ca0483e71b21df5bdba1b4f9b112cc1d470a36de820b589a716c390313c6cd36ccafc48f149421e6d47de0d"
+  "signature": "d32766c1c37a722e13c7571685ea2af39f34a865b42d079a68aa4c933e890917f425e3b0ecf4f2898480d42b4cdf0be3917b9290a26d73cb05be828faeb18908"
 }
