@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 63,
+    "versionCode": 64,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T10:25:08Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code63/manga-froggy-internal-code63.apk",
-    "apkSize": 65766886,
-    "sha256": "180916fd5b0f3b5d2ee875ba277a6cfb29ef1ddd35f038a2a4c9f7fafd1cbd5b",
-    "releaseNotes": "Manga Froggy INTERNAL code63 — Historial Mihon permanente.\r\nGuardado voluntario y confirmado en SQLite histórica separada. Apertura posterior sin seleccionar el respaldo. Sin aplicar lecturas actuales. Conservar el .tachibk: el archivo histórico no se incluye en la exportación general. Pendiente validación física Android.\r\n",
+    "publishedAt": "2026-10-18T12:16:50Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code64/manga-froggy-internal-code64.apk",
+    "apkSize": 65794106,
+    "sha256": "622ff4600dca36be9f27964347ea923d1b84d8e769753f32eaa413a54ffefde9",
+    "releaseNotes": "Manga Froggy INTERNAL code64 — Backup histórico Mihon R22.\r\nCopia general v7 con lotes históricos, lectura de copias v1–v6 y restauración histórica explícita e independiente del progreso principal. Límite 50 MiB, verificación e idempotencia. Conservar .tachibk original. Pendiente validación física de exportación/restauración Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "b82d0d9904f9c9ea26e5bcde1e235803c962eb1bf73a63d5cc131e48d4683f94f83efc188b1cad93a0819a511a9105bff3fa6486f7f22865050615990499c002"
+  "signature": "208313d6abac95d6ef6e0ec1d26a8b8d3111934d2ca0483e71b21df5bdba1b4f9b112cc1d470a36de820b589a716c390313c6cd36ccafc48f149421e6d47de0d"
 }
