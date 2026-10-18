@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 62,
+    "versionCode": 63,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T09:50:27Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code62/manga-froggy-internal-code62.apk",
-    "apkSize": 65736534,
-    "sha256": "a986e040894c0e19122dd498c45cd814f0916bd55650ba1864e4e61185e7b7a5",
-    "releaseNotes": "Manga Froggy INTERNAL code62 — Mihon historical viewer scroll.\r\nEncabezado y filtros desplazables; listas virtualizadas y tratamiento del teclado. Sin cambios de progreso. Pendiente validación física Android.\r\n",
+    "publishedAt": "2026-10-18T10:25:08Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code63/manga-froggy-internal-code63.apk",
+    "apkSize": 65766886,
+    "sha256": "180916fd5b0f3b5d2ee875ba277a6cfb29ef1ddd35f038a2a4c9f7fafd1cbd5b",
+    "releaseNotes": "Manga Froggy INTERNAL code63 — Historial Mihon permanente.\r\nGuardado voluntario y confirmado en SQLite histórica separada. Apertura posterior sin seleccionar el respaldo. Sin aplicar lecturas actuales. Conservar el .tachibk: el archivo histórico no se incluye en la exportación general. Pendiente validación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "2468c725d496978e7790eadbad3d3404227b7c16d3a2615b6ef54e1e472892fff9091724653325d60ae7436baba45fc61ea0fee22c80234409baa68499dbfb0e"
+  "signature": "b82d0d9904f9c9ea26e5bcde1e235803c962eb1bf73a63d5cc131e48d4683f94f83efc188b1cad93a0819a511a9105bff3fa6486f7f22865050615990499c002"
 }
