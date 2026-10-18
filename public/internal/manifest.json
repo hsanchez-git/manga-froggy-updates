@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 58,
+    "versionCode": 59,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-17T19:23:02Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code58/manga-froggy-internal-code58.apk",
-    "apkSize": 65682086,
-    "sha256": "010938f2761973d0e12854b650c09801f535ed36a08ce0ac050fa64f45c4cf17",
-    "releaseNotes": "Manga Froggy INTERNAL code58 — Mihon R18/R19.\r\nReconoce grupos completos acreditados que ya estaban leídos, sin acciones nuevas. Visor del historial original Mihon de solo lectura, en memoria, con obras favoritas y externas, filtros, lecturas, parciales y visitas separados. No recupera capítulos ni modifica progreso. Pendiente validación física Android.\r\n",
+    "publishedAt": "2026-10-18T07:32:05Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code59/manga-froggy-internal-code59.apk",
+    "apkSize": 65723418,
+    "sha256": "4cc58fdbc708f971f3d13e7e394dc3f9e2591baa4ba767ded6aaff631fe1b293",
+    "releaseNotes": "Manga Froggy INTERNAL code59 — R20: migración supervisada entre proveedores.\n\nVista previa por obra TMO ya importada; búsqueda de candidatos, confirmación de identidad y comparación de capítulos. Permite excluir y corregir propuestas y aprobarlas únicamente en memoria. Escrituras de migración deshabilitadas: no aplica lecturas, no crea bindings ni modifica Biblioteca o progreso.\n\nPendiente validación física del flujo en Xiaomi. No se han recuperado lecturas.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "b098ea6fff321a8b71c14e48f979ace073b0d74571c93954bd6c881ca98afb80ea9bd6e2c26b32996c69986d3ca8f1b89139690a0601646fc76fd8ebe0761d08"
+  "signature": "47a24cd693b6bee8b20d4c451d6c1bc015a1726e7fd5df03d811377f7401fef047a399ca119fb42481ff59c1a0a69fbfe335ae1a982bc6bc93365aae8d2c0d08"
 }
