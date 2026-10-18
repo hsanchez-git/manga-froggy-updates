@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 66,
+    "versionCode": 67,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T13:30:28Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code66/manga-froggy-internal-code66.apk",
-    "apkSize": 65821522,
-    "sha256": "358dad339b054ad6095c6853135e46f34be9ed22ac7f5f624cbba5439f7bc890",
-    "releaseNotes": "Manga Froggy INTERNAL code66 — Mihon Final.\r\nRecuperación supervisada por obra de lecturas completas, con distinción entre equivalencia verificada y correspondencia aceptada por el usuario. Excluye parciales, deduplica destinos y conserva progreso previo. Requiere recibo, fuente vinculada e índice local completo, revisión explícita y copia privada verificada antes de aplicar. Transacción idempotente y reversión limitada a cambios propios sin lecturas posteriores. No añade obras a Biblioteca ni aplica nada automáticamente al actualizar. Validación física Android pendiente. Conservar .tachibk original y copia general v7.\r\nAcceso virtualizado a todas las operaciones de reversión, incluidas las antiguas. CODE65 se conserva sin sustituir su APK.\r\n",
+    "publishedAt": "2026-10-18T13:39:51Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code67/manga-froggy-internal-code67.apk",
+    "apkSize": 65821182,
+    "sha256": "b038ea686e0d5b0b5289a961b23d441d7686d73e0ef9c48d4e0c3ca6aa5b5506",
+    "releaseNotes": "Manga Froggy INTERNAL code67 — Mihon Final.\r\nRecuperación supervisada por obra de lecturas completas, con distinción entre equivalencia verificada y correspondencia aceptada por el usuario. Excluye parciales, deduplica destinos y conserva progreso previo. Requiere recibo, fuente vinculada e índice local completo, revisión explícita y copia privada verificada antes de aplicar. Transacción idempotente y reversión limitada a cambios propios sin lecturas posteriores. No añade obras a Biblioteca ni aplica nada automáticamente al actualizar. Validación física Android pendiente. Conservar .tachibk original y copia general v7.\r\nAcceso virtualizado a todas las operaciones de reversión, incluidas las antiguas. CODE65 y CODE66 se conservan sin sustituir sus APK.\r\nPanel de revisión desplazable con altura acotada; listas de capítulos virtualizadas independientes y controles utilizables con teclado.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "0e4a0c748712b0563141362bea3e195f9fce039d06a870d2af078ca8a1eb82ef5112ec41fb88684a67f0df175e76def322b1d763c066ceb4b6af52a80f8fb403"
+  "signature": "22c15b835ea7f76a1fd4561c5f6cde815dc81dad5afe5244dc1e02be3ab8c8ca9b7077902be6170844cbb700553514da053caf3b32b273d7e757ada0931bfb05"
 }
