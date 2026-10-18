@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 60,
+    "versionCode": 61,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T08:01:44Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code60/manga-froggy-internal-code60.apk",
-    "apkSize": 65725594,
-    "sha256": "8012cfac5acd4c7b5d42321ef0162b5d755c9f0338e13e9242a24ba05cbe6b11",
-    "releaseNotes": "Manga Froggy INTERNAL code60 — R21: revisión supervisada de autores.\n\nPermite revisar explícitamente una discrepancia de autor escaso en la previsualización Mihon, únicamente con vínculo previo único y activo, títulos exactos y sin conflictos adicionales. Conserva bloqueos de identidades ambiguas, spin-offs y contradicciones reales. La revisión no acredita equivalencia de autores ni capítulos.\n\nEscrituras de migración deshabilitadas: no vincula fuentes ni aplica lecturas. Pendiente prueba física de Black Clover TMO → MangaOni.\r\n",
+    "publishedAt": "2026-10-18T09:15:54Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code61/manga-froggy-internal-code61.apk",
+    "apkSize": 65735970,
+    "sha256": "ca18073cdcdba4fe70a07e8509c99e0ddefb4d78d7b97648a2fdd1cc1202190c",
+    "releaseNotes": "Manga Froggy INTERNAL code61 — Historial original de Mihon.\n\nVisor histórico en memoria: requiere seleccionar el respaldo al abrir. Conserva registros originales por release, scanlators, parciales, capítulos0/decimales y fechas disponibles. Añade consulta opcional de solo lectura de correspondencias por obra con el reconciliador existente.\n\nNo es un archivo histórico persistente. No importa datos, no recupera lecturas, no añade obras a Biblioteca y no aplica migraciones de progreso. Pendiente validación física del visor y su fluidez en Xiaomi.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "fcd8a8f441245d622cdde4dc74b64659970e6cc2ec3a813e2aebc0cebc629cd94c684b23ea4efc7e433a7eb177c62daf01f52567da48146f99f56a1ad73a9c08"
+  "signature": "2a793254cd41571fb4580334af5883b017a87482bdca6ba01deca27f322af8e44926f72b02d8b10715e3d1a4c71f7513f418da504b882c6c7b212c60c672ea0d"
 }
