@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 61,
+    "versionCode": 62,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T09:15:54Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code61/manga-froggy-internal-code61.apk",
-    "apkSize": 65735970,
-    "sha256": "ca18073cdcdba4fe70a07e8509c99e0ddefb4d78d7b97648a2fdd1cc1202190c",
-    "releaseNotes": "Manga Froggy INTERNAL code61 — Historial original de Mihon.\n\nVisor histórico en memoria: requiere seleccionar el respaldo al abrir. Conserva registros originales por release, scanlators, parciales, capítulos0/decimales y fechas disponibles. Añade consulta opcional de solo lectura de correspondencias por obra con el reconciliador existente.\n\nNo es un archivo histórico persistente. No importa datos, no recupera lecturas, no añade obras a Biblioteca y no aplica migraciones de progreso. Pendiente validación física del visor y su fluidez en Xiaomi.\r\n",
+    "publishedAt": "2026-10-18T09:50:27Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code62/manga-froggy-internal-code62.apk",
+    "apkSize": 65736534,
+    "sha256": "a986e040894c0e19122dd498c45cd814f0916bd55650ba1864e4e61185e7b7a5",
+    "releaseNotes": "Manga Froggy INTERNAL code62 — Mihon historical viewer scroll.\r\nEncabezado y filtros desplazables; listas virtualizadas y tratamiento del teclado. Sin cambios de progreso. Pendiente validación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "2a793254cd41571fb4580334af5883b017a87482bdca6ba01deca27f322af8e44926f72b02d8b10715e3d1a4c71f7513f418da504b882c6c7b212c60c672ea0d"
+  "signature": "2468c725d496978e7790eadbad3d3404227b7c16d3a2615b6ef54e1e472892fff9091724653325d60ae7436baba45fc61ea0fee22c80234409baa68499dbfb0e"
 }
