@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 70,
+    "versionCode": 71,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-19T09:40:52Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code70/manga-froggy-internal-code70.apk",
-    "apkSize": 65930146,
-    "sha256": "970e98a77644e66f608f1840a609428b06822cb93ed5db6c49236028ad059d7f",
-    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (70) — Recuperación Mihon persistente. Guarda una vez el historial original completo y continúa reconciliando por obra cuando hay índices válidos. Requiere confirmación global explícita de la política de inferencias y copia previa verificada. Distingue registros preservados, capítulos marcados, pendientes y obras no identificadas. Parciales excluidos de nuevas marcas; progreso existente protegido; reintentos limitados y reversión selectiva. Validación local en SQLite temporal; pendiente aceptación física Android. No promete que todas las lecturas históricas tengan equivalencia actual.",
+    "publishedAt": "2026-10-19T12:36:21Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code71/manga-froggy-internal-code71.apk",
+    "apkSize": 65935854,
+    "sha256": "6b3653ad6379ff60171b80a1a007374941bf4c28e2fa4a1ac19d100d145e742c",
+    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (71) — Mihon persistent recovery fix. Conserva las lecturas históricas ya guardadas en CODE70, sin volver a seleccionar el respaldo. Reutiliza metadatos acreditados persistidos y obtiene fichas ausentes con límites, reintentos y espera persistente; corrige el descarte de índices válidos por caché temporal fría o caducada. Actualiza la lista de capítulos abierta tras las escrituras. Mantiene consentimiento, política, parciales excluidos, deduplicación, copia previa, transacciones y reversión. Validación local: 73 pruebas focales y recorrido completo con Black Clover, 370 marcas reflejadas en pantalla de prueba. Pendiente aceptación física Android; no garantiza equivalencia para todas las lecturas históricas.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "de3e8ed9081f0e1c583436742a3dcd1d8754aa354fbe194542883534a87975c9b5a71aeca53ba5dc917d8fea691a4d87eaadd2c9d474d94aa62386530c8f0501"
+  "signature": "593fb40303be66966a75a6cdacb6fe985040c1589eafc9b9c8b5365726d912f0e898e971f4517fd2034e4459f2616717a7b675e306cec2bc54cb18cbc2b82e00"
 }
