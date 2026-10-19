@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 69,
+    "versionCode": 70,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-19T07:33:26Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code69/manga-froggy-internal-code69.apk",
-    "apkSize": 65861814,
-    "sha256": "ba1a924771f80f8942f46c0b1fa8d1c15fa8793a1f6585473794aafe6c079f99",
-    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (69) — MIHON-69B.\nRecuperación automática con selección por cobertura, normalización de identidad de capítulos y destinos españoles acreditados. Confirmación global: la simulación local propone 188 marcas exactas y 891 inferidas; los recuentos del móvil pueden diferir. Copia previa, transacción idempotente y reversión selectiva. Lecturas sin destino conservadas como pendientes reanudables. No importa parciales ni añade obras a Biblioteca. Pendiente validación física Android.\r\n",
+    "publishedAt": "2026-10-19T09:40:52Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code70/manga-froggy-internal-code70.apk",
+    "apkSize": 65930146,
+    "sha256": "970e98a77644e66f608f1840a609428b06822cb93ed5db6c49236028ad059d7f",
+    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (70) — Recuperación Mihon persistente. Guarda una vez el historial original completo y continúa reconciliando por obra cuando hay índices válidos. Requiere confirmación global explícita de la política de inferencias y copia previa verificada. Distingue registros preservados, capítulos marcados, pendientes y obras no identificadas. Parciales excluidos de nuevas marcas; progreso existente protegido; reintentos limitados y reversión selectiva. Validación local en SQLite temporal; pendiente aceptación física Android. No promete que todas las lecturas históricas tengan equivalencia actual.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "4ae71428e8017b5305cf8ee684c7ba22e19bd792e04fb7ef804de44187f7cdd7f87f39f8a1754a47c6850f1851add00218045b043932ccd918b1dc7cdacedc04"
+  "signature": "de3e8ed9081f0e1c583436742a3dcd1d8754aa354fbe194542883534a87975c9b5a71aeca53ba5dc917d8fea691a4d87eaadd2c9d474d94aa62386530c8f0501"
 }
