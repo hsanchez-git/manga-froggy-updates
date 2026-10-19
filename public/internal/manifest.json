@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 68,
+    "versionCode": 69,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-18T14:23:34Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code68/manga-froggy-internal-code68.apk",
-    "apkSize": 65832490,
-    "sha256": "fec3154b696f65f7e928d8acc75baae13fe3b4e7a106fcd4730653bd52bc8c14",
-    "releaseNotes": "Manga Froggy INTERNAL code68 — Mihon Auto Final.\n\n- Seleccionar el respaldo, análisis automático y una sola confirmación global.\n- Lecturas completas únicamente; parciales y progreso existente protegidos.\n- Evidencia exacta separada de inferencias únicas de volumen/número autorizadas globalmente.\n- Copia previa automática verificada, exportación y reversión selectiva.\n- Sin nuevas obras en Biblioteca; destinos ambiguos o sin vínculo español fiable se omiten.\n- Reutiliza los adapters y las transacciones existentes. Sin cambios de Reader ni STABLE.\n\nLas inferencias pueden equivocarse. No garantiza recuperar el 100%. Validación física pendiente; ninguna migración se ha ejecutado desde el PC.\r\n",
+    "publishedAt": "2026-10-19T07:33:26Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code69/manga-froggy-internal-code69.apk",
+    "apkSize": 65861814,
+    "sha256": "ba1a924771f80f8942f46c0b1fa8d1c15fa8793a1f6585473794aafe6c079f99",
+    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (69) — MIHON-69B.\nRecuperación automática con selección por cobertura, normalización de identidad de capítulos y destinos españoles acreditados. Confirmación global: la simulación local propone 188 marcas exactas y 891 inferidas; los recuentos del móvil pueden diferir. Copia previa, transacción idempotente y reversión selectiva. Lecturas sin destino conservadas como pendientes reanudables. No importa parciales ni añade obras a Biblioteca. Pendiente validación física Android.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "79b193e0f9c86e070f5df8d25f8d45a41a2ff7be9487682e074b8e9d106a5e3c9cca921ccaff25e402fec52e9103f2e843c01120feae61e7c22d30486d038400"
+  "signature": "4ae71428e8017b5305cf8ee684c7ba22e19bd792e04fb7ef804de44187f7cdd7f87f39f8a1754a47c6850f1851add00218045b043932ccd918b1dc7cdacedc04"
 }
