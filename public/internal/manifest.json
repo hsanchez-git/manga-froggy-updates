@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 73,
+    "versionCode": 74,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-19T18:33:06Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code73/manga-froggy-internal-code73.apk",
-    "apkSize": 65948302,
-    "sha256": "9d8d79a3bfc0e9d02dede14af9233fc35cf81059874339a9ea4f992f08a6b89a",
-    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (73) — Recuperación Mihon con el motor de descubrimiento de Explorar. El trabajador global utiliza MultiSourceDiscoveryService, sus consultas, paginación y adaptadores españoles; recoge candidatos antes de acreditar la identidad. Conserva el botón global, progreso, pendientes, consentimiento, copia, transacciones y reversión. No transfiere lecturas por título solamente.\r\nValidación técnica con estado exportado e índices reales conservados: 14 obras con propuestas y 1.200 marcas (188 exactas y 1.012 inferidas), frente a 13 obras y 1.093 marcas. Las 107 adicionales se persistieron y mostraron en la pantalla real montada sobre SQLite temporal. Undead Unluck se encuentra, pero su identidad histórica sigue sin evidencia suficiente para transferir lecturas automáticamente. Los resultados físicos dependen del estado actual y de los proveedores. No es una recuperación completa de toda la biblioteca.\r\n",
+    "publishedAt": "2026-10-20T06:32:33Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code74/manga-froggy-internal-code74.apk",
+    "apkSize": 65972970,
+    "sha256": "d3ac58b1a676493c02acb05a7e595e99027952445d47e05d9715825179eb5254",
+    "releaseNotes": "Manga Froggy INTERNAL code74 — Mihon One-Shot.\n\nPolítica personal opt-in para el respaldo original: permite asociaciones inferidas solo con autor realmente ausente, título completo/alias acreditado exacto, identidad inequívoca e índice individual compatible. Autores presentes contradictorios, candidatos ambiguos y ediciones incompatibles siguen pendientes.\n\nReutiliza historial persistente, buscador normal, recuperación global, copia previa, idempotencia y reversión selectiva. No requiere volver a importar Mihon. Sin cambios en Reader ni STABLE/RELEASE.\n\nSimulación local: 21 obras y 1.861 marcas lógicas propuestas frente a 14 y 1.200; no equivale a recuperación física validada. Las asociaciones personales se registran como inferidas. Los resultados del móvil dependen de sus índices y progreso actual.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "d8679c91357e73ec92d456a74c723975616b4ed547cff9d02333f7b9eaca4fdf1025dbb31bcb8aab161fee27840089891bd200293f755da4c1ffe887a604c203"
+  "signature": "ac72be0c8393e97f30d2b93238cd5a2ef82ed32f4afcb622f8009cb0e0cc7e36701432f249ef4fcc99b64eaa447bc982658e3a3df1b57b5681ea79b62ec3b201"
 }
