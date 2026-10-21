@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 74,
+    "versionCode": 78,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-20T06:32:33Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code74/manga-froggy-internal-code74.apk",
-    "apkSize": 65972970,
-    "sha256": "d3ac58b1a676493c02acb05a7e595e99027952445d47e05d9715825179eb5254",
-    "releaseNotes": "Manga Froggy INTERNAL code74 — Mihon One-Shot.\n\nPolítica personal opt-in para el respaldo original: permite asociaciones inferidas solo con autor realmente ausente, título completo/alias acreditado exacto, identidad inequívoca e índice individual compatible. Autores presentes contradictorios, candidatos ambiguos y ediciones incompatibles siguen pendientes.\n\nReutiliza historial persistente, buscador normal, recuperación global, copia previa, idempotencia y reversión selectiva. No requiere volver a importar Mihon. Sin cambios en Reader ni STABLE/RELEASE.\n\nSimulación local: 21 obras y 1.861 marcas lógicas propuestas frente a 14 y 1.200; no equivale a recuperación física validada. Las asociaciones personales se registran como inferidas. Los resultados del móvil dependen de sus índices y progreso actual.\r\n",
+    "publishedAt": "2026-10-21T09:32:47Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code78/manga-froggy-internal-code78.apk",
+    "apkSize": 66101298,
+    "sha256": "1f966693380456b369fbaa84aac6cf96af07d6b472a34e5f4226b75307411b8c",
+    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (78) — Mihon Final\n\n- Importación de correspondencias privadas firmadas, con previsualización y una confirmación global.\n- Fuentes nativas integradas y corrección del estado de vínculos cuando no existe configuración persistida de la fuente.\n- Tratamiento de vínculos sin nuevas lecturas y protección de identidades, propietarios, progreso manual y fuentes deshabilitadas.\n- Copia previa verificada, transacción, idempotencia y reversión existentes.\n- La APK y esta publicación no incluyen manifiestos personales ni copias Mihon.\n- La aplicación recalcula las acciones sobre el estado actual del dispositivo. Validación física de la migración pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "ac72be0c8393e97f30d2b93238cd5a2ef82ed32f4afcb622f8009cb0e0cc7e36701432f249ef4fcc99b64eaa447bc982658e3a3df1b57b5681ea79b62ec3b201"
+  "signature": "b48d74468c843a46b4cf918c598bdff93548094a9e6e77e758601f9f95a4d9b699a732d7cd8a1127dff0459018858e9e0f01a0493837009d7e7b32cecdc0f809"
 }
