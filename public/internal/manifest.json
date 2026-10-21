@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 78,
+    "versionCode": 79,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-21T09:32:47Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code78/manga-froggy-internal-code78.apk",
-    "apkSize": 66101298,
-    "sha256": "1f966693380456b369fbaa84aac6cf96af07d6b472a34e5f4226b75307411b8c",
-    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (78) — Mihon Final\n\n- Importación de correspondencias privadas firmadas, con previsualización y una confirmación global.\n- Fuentes nativas integradas y corrección del estado de vínculos cuando no existe configuración persistida de la fuente.\n- Tratamiento de vínculos sin nuevas lecturas y protección de identidades, propietarios, progreso manual y fuentes deshabilitadas.\n- Copia previa verificada, transacción, idempotencia y reversión existentes.\n- La APK y esta publicación no incluyen manifiestos personales ni copias Mihon.\n- La aplicación recalcula las acciones sobre el estado actual del dispositivo. Validación física de la migración pendiente.\r\n",
+    "publishedAt": "2026-10-21T12:39:44Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code79/manga-froggy-internal-code79.apk",
+    "apkSize": 66078102,
+    "sha256": "1ea3cb66c0298a1ed23d199cabc98e8a50a3d9009612daffcc1a3811570b8fb2",
+    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (79) — Mihon Cleanup\n\n- Una única recuperación mediante JSON privado firmado, con previsualización y confirmación explícita.\n- Retirado el arranque y la reanudación del recuperador global antiguo.\n- Conservación de lecturas previas, historial, journals, backups y desmarcados manuales.\n- Menos resoluciones de identidad repetidas, sin cambiar las correspondencias autorizadas.\n- Pantalla desplazable con progreso por fases, cancelación de verificación y errores controlados.\n- Sin cancelación forzada de transacciones. El progreso se recalcula sobre los datos actuales.\n- No se incluyen manifiestos personales ni copias Mihon. Validación física pendiente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "b48d74468c843a46b4cf918c598bdff93548094a9e6e77e758601f9f95a4d9b699a732d7cd8a1127dff0459018858e9e0f01a0493837009d7e7b32cecdc0f809"
+  "signature": "e801721dadbc9db01aa0c1357e90869cbe885d1694cff969d5dd1c2c733f1a2aecbf7e232dd48119708279f6b9b4c029b484d32e2043f16d7484bdc986870006"
 }
