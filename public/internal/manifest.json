@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 79,
+    "versionCode": 80,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-21T12:39:44Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code79/manga-froggy-internal-code79.apk",
-    "apkSize": 66078102,
-    "sha256": "1ea3cb66c0298a1ed23d199cabc98e8a50a3d9009612daffcc1a3811570b8fb2",
-    "releaseNotes": "Manga Froggy INTERNAL 1.1.1 (79) — Mihon Cleanup\n\n- Una única recuperación mediante JSON privado firmado, con previsualización y confirmación explícita.\n- Retirado el arranque y la reanudación del recuperador global antiguo.\n- Conservación de lecturas previas, historial, journals, backups y desmarcados manuales.\n- Menos resoluciones de identidad repetidas, sin cambiar las correspondencias autorizadas.\n- Pantalla desplazable con progreso por fases, cancelación de verificación y errores controlados.\n- Sin cancelación forzada de transacciones. El progreso se recalcula sobre los datos actuales.\n- No se incluyen manifiestos personales ni copias Mihon. Validación física pendiente.\r\n",
+    "publishedAt": "2026-10-21T14:48:37Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code80/manga-froggy-internal-code80.apk",
+    "apkSize": 66082874,
+    "sha256": "d8e5941d48ac99a3220b226def137bb8781c4ac0a1a4c2e8af9c2a3fd9015eda",
+    "releaseNotes": "Manga Froggy INTERNAL code80 — Private migration performance.\r\n\r\n- Indexed chapter-resource comparison and operation-scoped identity resolution.\r\n- Bounded signed JSON verification with visible phases and copyable aggregate timings.\r\n- Scoped transactional chapter reads, retaining identity, ownership, manual progress, backup and rollback checks.\r\n- Original safety deadline retained; no automatic legacy worker.\r\n\r\nPhysical Xiaomi preview/application performance still requires confirmation. No new Mihon import is necessary.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "e801721dadbc9db01aa0c1357e90869cbe885d1694cff969d5dd1c2c733f1a2aecbf7e232dd48119708279f6b9b4c029b484d32e2043f16d7484bdc986870006"
+  "signature": "e5011c4bbdd1d8d58122e858523ecd2292228c59e1a3d343b9580e608129630c3351010f54dc0ac25a5a98093871ce9550bd4d3d15e537d6003bb5160d734209"
 }
