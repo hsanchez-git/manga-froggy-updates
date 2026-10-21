@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 80,
+    "versionCode": 81,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-21T14:48:37Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code80/manga-froggy-internal-code80.apk",
-    "apkSize": 66082874,
-    "sha256": "d8e5941d48ac99a3220b226def137bb8781c4ac0a1a4c2e8af9c2a3fd9015eda",
-    "releaseNotes": "Manga Froggy INTERNAL code80 — Private migration performance.\r\n\r\n- Indexed chapter-resource comparison and operation-scoped identity resolution.\r\n- Bounded signed JSON verification with visible phases and copyable aggregate timings.\r\n- Scoped transactional chapter reads, retaining identity, ownership, manual progress, backup and rollback checks.\r\n- Original safety deadline retained; no automatic legacy worker.\r\n\r\nPhysical Xiaomi preview/application performance still requires confirmation. No new Mihon import is necessary.\r\n",
+    "publishedAt": "2026-10-21T16:26:18Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code81/manga-froggy-internal-code81.apk",
+    "apkSize": 66093602,
+    "sha256": "febba723308fedcaeaeff9e9f7c3d8ab5e6ebf42ccaf3b7729f5bc4ec29d6c4d",
+    "releaseNotes": "Manga Froggy INTERNAL code81 — Private migration matching.\r\n\r\n- Stable-resource chapter matching and operation-scoped variant/progress indices.\r\n- Removes redundant intermediate seals; retains complete signed evidence and transactional global validation.\r\n- Bounded original-byte digest cache and cooperative, cancellable global verification.\r\n- Visible matching subphases and copyable aggregate diagnostics.\r\n\r\nNo new Mihon import or private JSON is required. Physical Xiaomi validation remains pending; no reading recovery is applied from the PC.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "e5011c4bbdd1d8d58122e858523ecd2292228c59e1a3d343b9580e608129630c3351010f54dc0ac25a5a98093871ce9550bd4d3d15e537d6003bb5160d734209"
+  "signature": "4f953c5c3e879ecde92fc5554817b8f95350cf60a2b3cfe2c018f18f79d95436cc7b98686c6ade7302a84ec3153dc61f734f9e6eb779ac68d0b524d330279c0d"
 }
