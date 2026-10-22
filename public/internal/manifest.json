@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 81,
+    "versionCode": 82,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-21T16:26:18Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code81/manga-froggy-internal-code81.apk",
-    "apkSize": 66093602,
-    "sha256": "febba723308fedcaeaeff9e9f7c3d8ab5e6ebf42ccaf3b7729f5bc4ec29d6c4d",
-    "releaseNotes": "Manga Froggy INTERNAL code81 — Private migration matching.\r\n\r\n- Stable-resource chapter matching and operation-scoped variant/progress indices.\r\n- Removes redundant intermediate seals; retains complete signed evidence and transactional global validation.\r\n- Bounded original-byte digest cache and cooperative, cancellable global verification.\r\n- Visible matching subphases and copyable aggregate diagnostics.\r\n\r\nNo new Mihon import or private JSON is required. Physical Xiaomi validation remains pending; no reading recovery is applied from the PC.\r\n",
+    "publishedAt": "2026-10-22T07:18:58Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code82/manga-froggy-internal-code82.apk",
+    "apkSize": 66114494,
+    "sha256": "42249a7d879186c56c5db84f8c89f2649d1e0a42101271cb57bb4125c471f10f",
+    "releaseNotes": "Manga Froggy INTERNAL code82 — Estado de migración Mihon.\nConsulta independiente de solo lectura, bloqueo según journal y primera apertura sin reanudar escrituras. Revalidación duplicada eliminada. Pendiente comprobar el estado físico en Android.\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "4f953c5c3e879ecde92fc5554817b8f95350cf60a2b3cfe2c018f18f79d95436cc7b98686c6ade7302a84ec3153dc61f734f9e6eb779ac68d0b524d330279c0d"
+  "signature": "cb6d7fcc4253c58ebfc4420da6047b24818155163388b883b9f3cd27c6515044779e1932ea2d75ef84db3ac9ea80337f4f4822eb448a8a907c158e910750a304"
 }
