@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 83,
+    "versionCode": 84,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-22T16:43:31Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code83/manga-froggy-internal-code83.apk",
-    "apkSize": 66230998,
-    "sha256": "c90475c884370d9578abf76ceacdd416c3a38905af82d38f23e3e9de973e8421",
-    "releaseNotes": "Manga Froggy INTERNAL code83 — MIHON-R25. Corrección estricta de identidad InManga y diagnóstico opcional «Copiar variantes de One Piece (solo lectura)». No aplica lecturas. Pendiente captura física de los 38 destinos. Sin cambios de Reader ni esquema.",
+    "publishedAt": "2026-10-22T18:42:58Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code84/manga-froggy-internal-code84.apk",
+    "apkSize": 66260626,
+    "sha256": "a676db20bf5fa9d5d252cce77ccfe1ffccdaf87b4d203891484d0570533b9085",
+    "releaseNotes": "Manga Froggy INTERNAL code84 — MIHON-R27. Diagnóstico global Mihon de solo lectura: ruta SQLite Android corregida,160obras,pendientes primero,exportación JSON segmentada íntegra con sesión y huellas de estado. Sin aplicación de lecturas ni consultas a proveedores. Pendiente captura física.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "400eec72f428b07f9c1def778daec19a895c50df4e7db4e21e9e31e6647af5245fdb0f669992a9b46f4a579d96bdabc8dd1f3d1e9ea5dcab0cf2115115f6670e"
+  "signature": "2d992c802731c2a38db917f588ef2b28afda91c7e50eb7c7c7bcad6f668845b38c912f1dca86af6fe7f5c00c924039001d40cea02f5dc872818276b16f51eb04"
 }
