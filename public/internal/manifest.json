@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 86,
+    "versionCode": 87,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-23T17:02:19Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code86/manga-froggy-internal-code86.apk",
-    "apkSize": 66292042,
-    "sha256": "f37867661c0c5b514e8aa38d8678f1eb12263904429db20de8ed60b223375da4",
-    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R34. Diagnóstico global ampliado de solo lectura: variantes, propietarios, progreso y journals de claves pendientes, mediante un único ZIP verificado. No aplica lecturas ni rellena cachés. La disponibilidad y clasificación física permanecen pendientes de la captura del Xiaomi.",
+    "publishedAt": "2026-10-24T07:47:03Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code87/manga-froggy-internal-code87.apk",
+    "apkSize": 66303838,
+    "sha256": "ffe5c717cb4b764d5f60afb34cd51a74d3e70001e083830e58c15574cbc7b95b",
+    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R36. Corrección de la exportación global: huella incremental por páginas acotadas, snapshot de lectura reutilizado y verificación final de estado. Un solo botón y un único ZIP. No aplica lecturas, no rellena cachés ni consulta proveedores. Validación física pendiente.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "37e084032d8e32722b18b2a39dc4e57f64081d1bfb6811c00d766a50242ebb4a1efe705970ce4cfece815596fb1300b21ad890b6bd8a0ddaf308aaf435a66d01"
+  "signature": "99c3ca1ae4b197d8837c2258d2ecab9db9be7935ae569014d97c069f8b31ab368f105e665546d2e8d08acb0233b02df7f99e9f830bfecf08d0e40b64049d490b"
 }
