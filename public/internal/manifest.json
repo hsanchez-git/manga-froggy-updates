@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 88,
+    "versionCode": 89,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-24T10:35:48Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code88/manga-froggy-internal-code88.apk",
-    "apkSize": 66313670,
-    "sha256": "8daac3b056c0babbcac0869a00dff608f87e3b877bb7ca883d76089f13fd2ab1",
-    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R38. Diagnóstico de exportación por etapa, segmento y bytes; conserva el error inicial y permite copiar un informe seguro. Prueba pequeña de escritura/copia/lectura SAF antes de consultar SQLite, con una sola selección de carpeta. Mantiene la exportación incremental completa de160obras y474claves. No aplica lecturas, no reconstruye cachés ni consulta proveedores. Validación física Android pendiente; no se afirma corregida la causa de GLOBAL_EXPORT_IO_FAILED.\r\n",
+    "publishedAt": "2026-10-24T18:07:37Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code89/manga-froggy-internal-code89.apk",
+    "apkSize": 66362086,
+    "sha256": "7d156f694506a29553d05c342a5f7efc5a6addf50c3637147893c7f6fd2469f5",
+    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R42. Recuperación asistida por obra desde el historial Mihon ya guardado. Selección de edición, capítulos/rangos y vista previa de todas las variantes afectadas. Las decisiones manuales se registran como USER_ACCEPTED, separadas de VERIFIED. Confirmación explícita, copia previa verificada, transacción, journal, idempotencia y reversión selectiva. Ninguna recuperación se inicia al actualizar. Primera validación física: solo vistas previas, sin confirmar escrituras. Reader y canales STABLE/RELEASE conservados.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "ac01f409ab8f1f49cd19e0bdfc5927d3c2c89e2db26b0243ef0448d015368dd07b74a5db7b94eb4ebe2c5337f52cd44546269093924dbe276069f9742d0d580b"
+  "signature": "a2bf419a619f7884b19f4d29fc0c711710c84a1d1dddd0ab884a525887c3b314a69d8d9f90731ba1d77d478397cf5976e840458dea4887894266405738e00e04"
 }
