@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 87,
+    "versionCode": 88,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-24T07:47:03Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code87/manga-froggy-internal-code87.apk",
-    "apkSize": 66303838,
-    "sha256": "ffe5c717cb4b764d5f60afb34cd51a74d3e70001e083830e58c15574cbc7b95b",
-    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R36. Corrección de la exportación global: huella incremental por páginas acotadas, snapshot de lectura reutilizado y verificación final de estado. Un solo botón y un único ZIP. No aplica lecturas, no rellena cachés ni consulta proveedores. Validación física pendiente.",
+    "publishedAt": "2026-10-24T10:35:48Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code88/manga-froggy-internal-code88.apk",
+    "apkSize": 66313670,
+    "sha256": "8daac3b056c0babbcac0869a00dff608f87e3b877bb7ca883d76089f13fd2ab1",
+    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R38. Diagnóstico de exportación por etapa, segmento y bytes; conserva el error inicial y permite copiar un informe seguro. Prueba pequeña de escritura/copia/lectura SAF antes de consultar SQLite, con una sola selección de carpeta. Mantiene la exportación incremental completa de160obras y474claves. No aplica lecturas, no reconstruye cachés ni consulta proveedores. Validación física Android pendiente; no se afirma corregida la causa de GLOBAL_EXPORT_IO_FAILED.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "99c3ca1ae4b197d8837c2258d2ecab9db9be7935ae569014d97c069f8b31ab368f105e665546d2e8d08acb0233b02df7f99e9f830bfecf08d0e40b64049d490b"
+  "signature": "ac01f409ab8f1f49cd19e0bdfc5927d3c2c89e2db26b0243ef0448d015368dd07b74a5db7b94eb4ebe2c5337f52cd44546269093924dbe276069f9742d0d580b"
 }
