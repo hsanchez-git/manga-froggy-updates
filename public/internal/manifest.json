@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 89,
+    "versionCode": 90,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-24T18:07:37Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code89/manga-froggy-internal-code89.apk",
-    "apkSize": 66362086,
-    "sha256": "7d156f694506a29553d05c342a5f7efc5a6addf50c3637147893c7f6fd2469f5",
-    "releaseNotes": "Manga Froggy INTERNAL — MIHON-R42. Recuperación asistida por obra desde el historial Mihon ya guardado. Selección de edición, capítulos/rangos y vista previa de todas las variantes afectadas. Las decisiones manuales se registran como USER_ACCEPTED, separadas de VERIFIED. Confirmación explícita, copia previa verificada, transacción, journal, idempotencia y reversión selectiva. Ninguna recuperación se inicia al actualizar. Primera validación física: solo vistas previas, sin confirmar escrituras. Reader y canales STABLE/RELEASE conservados.\r\n",
+    "publishedAt": "2026-10-27T15:31:09Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code90/manga-froggy-internal-code90.apk",
+    "apkSize": 66513946,
+    "sha256": "01dab88ccef2a5ea57cd2c065c0a588f393a888a28ccb5f78505473feec15247",
+    "releaseNotes": "Recuperación de lecturas de Mihon mediante archivo privado firmado, con copia SQLite previa verificada, conservación del progreso existente y ejecución repetible. Mejoras de seguridad e integridad del respaldo automático.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "a2bf419a619f7884b19f4d29fc0c711710c84a1d1dddd0ab884a525887c3b314a69d8d9f90731ba1d77d478397cf5976e840458dea4887894266405738e00e04"
+  "signature": "562928b7e57523dde6308cb2c9ed34f1906e02275f4d75c00391825a457cb58930857aaaa9646a6ddd95096bc4b4e469e725805e1f9b1de795572d20f9940200"
 }
