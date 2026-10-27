@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 90,
+    "versionCode": 91,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-27T15:31:09Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code90/manga-froggy-internal-code90.apk",
-    "apkSize": 66513946,
-    "sha256": "01dab88ccef2a5ea57cd2c065c0a588f393a888a28ccb5f78505473feec15247",
-    "releaseNotes": "Recuperación de lecturas de Mihon mediante archivo privado firmado, con copia SQLite previa verificada, conservación del progreso existente y ejecución repetible. Mejoras de seguridad e integridad del respaldo automático.\r\n",
+    "publishedAt": "2026-10-27T18:34:06Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code91/manga-froggy-internal-code91.apk",
+    "apkSize": 66519206,
+    "sha256": "8a618ddfa915bc6fdc86c9c9e474bfe9b5cc201e6862ab507c7bf7f36b2828ab",
+    "releaseNotes": "Diagnóstico de bloqueos de recuperación Mihon, estrictamente de solo lectura. Incluye causas individuales y evidencia disponible, sin repetir importaciones ni aplicar capítulos.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "562928b7e57523dde6308cb2c9ed34f1906e02275f4d75c00391825a457cb58930857aaaa9646a6ddd95096bc4b4e469e725805e1f9b1de795572d20f9940200"
+  "signature": "4c290f57f99b4cc1b8cd8bae5cd523d17f564dd41d40ff6ec723703efd18290758ca6876a2153237d388e7502e23e2d17a138692f3594e2647f1f52dbbe11b0e"
 }
