@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 94,
+    "versionCode": 95,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-28T17:08:01Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code94/manga-froggy-internal-code94.apk",
-    "apkSize": 66573210,
-    "sha256": "498dfc03a14cd0702970c3d997ecf4f84231c9bd5f54f7bc481fadde100a16ed",
-    "releaseNotes": "INTERNAL 1.1.1 (94). Corrige el timeout prematuro durante la preparación de SQLite: reconoce avance real del backup y la migración, conserva límites de inactividad y espera total y exige comprobar base y journal antes de recuperar. Añade diagnóstico exportable por etapas. Mantiene esquema 13 y las protecciones del progreso. No desinstalar ni borrar datos.\r\n",
+    "publishedAt": "2026-10-28T19:22:06Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code95/manga-froggy-internal-code95.apk",
+    "apkSize": 66581674,
+    "sha256": "6490de903187478bad450e9c583b578e93360a3469b798fe4897b20c0707be3a",
+    "releaseNotes": "INTERNAL 1.1.1 (95). Corrige búsquedas de actualización bloqueadas: límites de red y SQLite, cancelación y reintento con errores visibles. Comprueba Pages y el espejo firmado para detectar la versión más reciente válida. Conserva Mihon, el progreso por variante y la preparación de base de datos de CODE94. No desinstalar ni borrar datos.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "6c783f7b560dc81358442d34c15fef250b53012b0cb4f5072b9c5fe05c04d88bdb86d792416bea949728c14fe99a395e5edaa6b7a13642a400ab2bb8db6a7f09"
+  "signature": "ec35f83c6810671e8abbd7f4c35125cd1a9cb36a63094fcb544d0b959bc702caa2f2719cfabecdb759d90aeeeb1243b13a71b923ccced9124517b75d314a6105"
 }
