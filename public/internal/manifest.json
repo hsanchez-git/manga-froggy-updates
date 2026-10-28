@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 93,
+    "versionCode": 94,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-28T13:57:52Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code93/manga-froggy-internal-code93.apk",
-    "apkSize": 66564890,
-    "sha256": "95309bd1ac5f2a9fd905085fc7a33d1c885c54fd71a07c07f5f85f0c08364741",
-    "releaseNotes": "INTERNAL 1.1.1 (93). Corrige el acceso a Recuperar mis lecturas, muestra la fase o el motivo de bloqueo y permite reintentar de forma segura. Reutiliza el manifiesto firmado guardado; distingue ausencia y contenido inválido. Mantiene esquema 13 y exige revisar y confirmar únicamente nuevas marcas acreditadas por variante. No desinstalar ni borrar datos.",
+    "publishedAt": "2026-10-28T17:08:01Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code94/manga-froggy-internal-code94.apk",
+    "apkSize": 66573210,
+    "sha256": "498dfc03a14cd0702970c3d997ecf4f84231c9bd5f54f7bc481fadde100a16ed",
+    "releaseNotes": "INTERNAL 1.1.1 (94). Corrige el timeout prematuro durante la preparación de SQLite: reconoce avance real del backup y la migración, conserva límites de inactividad y espera total y exige comprobar base y journal antes de recuperar. Añade diagnóstico exportable por etapas. Mantiene esquema 13 y las protecciones del progreso. No desinstalar ni borrar datos.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "66b80b01b0cecf04e8d9bf8cb2576b70d65b92164df75d39d3b30b24ef503d01fdf917655d20b9755922417901046ce037ce6556629be87ef3c520b94c5ba40a"
+  "signature": "6c783f7b560dc81358442d34c15fef250b53012b0cb4f5072b9c5fe05c04d88bdb86d792416bea949728c14fe99a395e5edaa6b7a13642a400ab2bb8db6a7f09"
 }
