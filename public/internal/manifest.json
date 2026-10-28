@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 91,
+    "versionCode": 92,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-27T18:34:06Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code91/manga-froggy-internal-code91.apk",
-    "apkSize": 66519206,
-    "sha256": "8a618ddfa915bc6fdc86c9c9e474bfe9b5cc201e6862ab507c7bf7f36b2828ab",
-    "releaseNotes": "Diagnóstico de bloqueos de recuperación Mihon, estrictamente de solo lectura. Incluye causas individuales y evidencia disponible, sin repetir importaciones ni aplicar capítulos.\r\n",
+    "publishedAt": "2026-10-28T08:48:19Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code92/manga-froggy-internal-code92.apk",
+    "apkSize": 66558818,
+    "sha256": "949c7cf83f7d7a63911a55ff44bf23dff75771af07a1a4499552b33cf456df6f",
+    "releaseNotes": "INTERNAL 1.1.1 (92). Progreso por variante acreditada y corrección de reanudación desde Historial. Actualización con copia previa verificada y conservación del progreso existente. Las nuevas recuperaciones requieren vista previa y confirmación. No incluye archivos personales. No desinstalar ni volver a instalar CODE91 sobre el esquema nuevo.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "4c290f57f99b4cc1b8cd8bae5cd523d17f564dd41d40ff6ec723703efd18290758ca6876a2153237d388e7502e23e2d17a138692f3594e2647f1f52dbbe11b0e"
+  "signature": "2ecd72d735b40837bf3f1e699a26a0508ce787650b65b0aef7db8af1b8348cfbdd2d5abd40493719354f3fac9f78af1a2f538dd87d7ddb1666fa9849188b0f0a"
 }
