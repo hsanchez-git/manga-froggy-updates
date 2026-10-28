@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 92,
+    "versionCode": 93,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-28T08:48:19Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code92/manga-froggy-internal-code92.apk",
-    "apkSize": 66558818,
-    "sha256": "949c7cf83f7d7a63911a55ff44bf23dff75771af07a1a4499552b33cf456df6f",
-    "releaseNotes": "INTERNAL 1.1.1 (92). Progreso por variante acreditada y corrección de reanudación desde Historial. Actualización con copia previa verificada y conservación del progreso existente. Las nuevas recuperaciones requieren vista previa y confirmación. No incluye archivos personales. No desinstalar ni volver a instalar CODE91 sobre el esquema nuevo.",
+    "publishedAt": "2026-10-28T13:57:52Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code93/manga-froggy-internal-code93.apk",
+    "apkSize": 66564890,
+    "sha256": "95309bd1ac5f2a9fd905085fc7a33d1c885c54fd71a07c07f5f85f0c08364741",
+    "releaseNotes": "INTERNAL 1.1.1 (93). Corrige el acceso a Recuperar mis lecturas, muestra la fase o el motivo de bloqueo y permite reintentar de forma segura. Reutiliza el manifiesto firmado guardado; distingue ausencia y contenido inválido. Mantiene esquema 13 y exige revisar y confirmar únicamente nuevas marcas acreditadas por variante. No desinstalar ni borrar datos.",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "2ecd72d735b40837bf3f1e699a26a0508ce787650b65b0aef7db8af1b8348cfbdd2d5abd40493719354f3fac9f78af1a2f538dd87d7ddb1666fa9849188b0f0a"
+  "signature": "66b80b01b0cecf04e8d9bf8cb2576b70d65b92164df75d39d3b30b24ef503d01fdf917655d20b9755922417901046ce037ce6556629be87ef3c520b94c5ba40a"
 }
