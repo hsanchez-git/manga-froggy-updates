@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 95,
+    "versionCode": 96,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-28T19:22:06Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code95/manga-froggy-internal-code95.apk",
-    "apkSize": 66581674,
-    "sha256": "6490de903187478bad450e9c583b578e93360a3469b798fe4897b20c0707be3a",
-    "releaseNotes": "INTERNAL 1.1.1 (95). Corrige búsquedas de actualización bloqueadas: límites de red y SQLite, cancelación y reintento con errores visibles. Comprueba Pages y el espejo firmado para detectar la versión más reciente válida. Conserva Mihon, el progreso por variante y la preparación de base de datos de CODE94. No desinstalar ni borrar datos.\r\n",
+    "publishedAt": "2026-10-29T09:49:28Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code96/manga-froggy-internal-code96.apk",
+    "apkSize": 66607946,
+    "sha256": "3195f2359408325e905126d849963dfbdfbeb6d8776df8b754cce14c4966b111",
+    "releaseNotes": "INTERNAL 1.1.1 (96). Hace visibles las lecturas guardadas por edición: Biblioteca respeta la fuente preferida y sus contadores consultan la variante seleccionada. Muestra las lecturas guardadas en otras fuentes y permite preferir la edición acreditada sin transferir progreso. Incluye diagnóstico de filas persistidas de solo lectura. Conserva esquema 13, journals, parciales, desmarcados y actualizador CODE95. No repetir la recuperación ni desinstalar.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "ec35f83c6810671e8abbd7f4c35125cd1a9cb36a63094fcb544d0b959bc702caa2f2719cfabecdb759d90aeeeb1243b13a71b923ccced9124517b75d314a6105"
+  "signature": "18626480c74319be8194a0709d7feed07056097fd277d418da7ab1edd27a56024b0c4055308f0709d8b333b964cf64a68b4e66a4b0342c173d380763b0544900"
 }
