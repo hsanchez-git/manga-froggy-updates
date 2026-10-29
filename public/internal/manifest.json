@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 97,
+    "versionCode": 98,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-29T10:54:14Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code97/manga-froggy-internal-code97.apk",
-    "apkSize": 66655450,
-    "sha256": "92456702dca2c6eb3c7d9fe6f7f5dac415b939d5006dfe69c78788e67df80a13",
-    "releaseNotes": "INTERNAL 1.1.1 (97)\r\nBiblioteca: vista previa para mostrar lecturas guardadas en sus ediciones acreditadas. Conserva selecciones manuales y permite deshacer cambios automáticos de fuente. No importa ni marca capítulos.\r\n",
+    "publishedAt": "2026-10-29T16:16:18Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code98/manga-froggy-internal-code98.apk",
+    "apkSize": 66682962,
+    "sha256": "a7aef5d76bfb3ac679749bf595283dfb647874baca1d38efccd3acaa117d2f09",
+    "releaseNotes": "INTERNAL 1.1.1 (98)\r\nBiblioteca: copiar la lista completa de pendientes con fuentes, motivos y evidencia local. Distingue selección de edición, progreso parcial y datos desconocidos. Consulta de solo lectura, sin recuperación ni cambios de fuente.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "d9cf352f8056695994dd69740f8b982073cf7d210710f5118704c2bfcad784b446748c284b1b01ec351ceefd32b0e9a1feef13f55e7317e273726d7058527c00"
+  "signature": "fb0911721a2d958910194db383cb179eb6b7c381aaa0876d03c3c894df0c0ebf710e43c77fd4ec17f3374aee405db8848139e91c212f1435a8333a2fd75cd605"
 }
