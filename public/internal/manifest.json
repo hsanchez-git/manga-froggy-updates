@@ -4,15 +4,15 @@
     "channel": "internal",
     "packageName": "com.mangafroggy.app.internal",
     "versionName": "1.1.1",
-    "versionCode": 98,
+    "versionCode": 99,
     "minSupportedVersionCode": 4,
-    "publishedAt": "2026-10-29T16:16:18Z",
-    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code98/manga-froggy-internal-code98.apk",
-    "apkSize": 66682962,
-    "sha256": "a7aef5d76bfb3ac679749bf595283dfb647874baca1d38efccd3acaa117d2f09",
-    "releaseNotes": "INTERNAL 1.1.1 (98)\r\nBiblioteca: copiar la lista completa de pendientes con fuentes, motivos y evidencia local. Distingue selección de edición, progreso parcial y datos desconocidos. Consulta de solo lectura, sin recuperación ni cambios de fuente.\r\n",
+    "publishedAt": "2026-10-30T08:14:50Z",
+    "apkUrl": "https://github.com/hsanchez-git/manga-froggy-updates/releases/download/internal-code99/manga-froggy-internal-code99.apk",
+    "apkSize": 66703426,
+    "sha256": "343c29722d4ef5bf11b5cda42d82fbad288263b295965c6f8de5bc309750757f",
+    "releaseNotes": "INTERNAL1.1.1(99)\r\n\r\nAñade un diagnóstico reducido de asociaciones Mihon de solo lectura, con copia íntegra y hashes verificables. Aclara el error de tamaño de la copia general.\r\n\r\nNo ejecuta recuperaciones ni cambia lecturas, preferencias o el esquema SQLite.\r\n",
     "mandatory": false,
     "signerId": "mf-app-2026"
   },
-  "signature": "fb0911721a2d958910194db383cb179eb6b7c381aaa0876d03c3c894df0c0ebf710e43c77fd4ec17f3374aee405db8848139e91c212f1435a8333a2fd75cd605"
+  "signature": "b549284aff2c3a750f466843dd497c19e4806e46fa2ff9f3b476c436af766a58e6b001f427e8a0a1d7cc254eff478c5a3f14b1afaac8a29e874b13ab3019960f"
 }
